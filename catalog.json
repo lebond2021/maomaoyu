@@ -1,11 +1,11 @@
 {
-    "version":  2026112312,
-    "updated":  "2026-11-23 11:28",
+    "version":  2026112315,
+    "updated":  "2026-11-23 15:00",
     "remoteIndex":  "https://gitee.com/lebond/maomaoyu/raw/master/catalog.json",
     "sources":  [
                     {
                         "id":  "maomaoyu",
-                        "name":  "毛毛雨 内置源",
+                        "name":  "毛毛雨 自建源",
                         "url":  "https://gitee.com/lebond/maomaoyu/raw/master/sources/maomaoyu.json",
                         "alt":  "",
                         "priority":  100,
@@ -17,7 +17,7 @@
                         "url":  "https://gitee.com/lebond/maomaoyu/raw/master/sources/qist_fty.json",
                         "alt":  "https://raw.githubusercontent.com/qist/tvbox/master/fty.json",
                         "priority":  70,
-                        "enabled":  true
+                        "enabled":  false
                     },
                     {
                         "id":  "dongli",
@@ -25,7 +25,7 @@
                         "url":  "https://gitee.com/lebond/maomaoyu/raw/master/sources/dongli.json",
                         "alt":  "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
                         "priority":  60,
-                        "enabled":  true
+                        "enabled":  false
                     },
                     {
                         "id":  "qist_0821",
@@ -33,7 +33,7 @@
                         "url":  "https://gitee.com/lebond/maomaoyu/raw/master/sources/qist_0821.json",
                         "alt":  "https://raw.githubusercontent.com/qist/tvbox/master/0821.json",
                         "priority":  50,
-                        "enabled":  true
+                        "enabled":  false
                     },
                     {
                         "id":  "qist_0826",
@@ -41,7 +41,7 @@
                         "url":  "https://gitee.com/lebond/maomaoyu/raw/master/sources/qist_0826.json",
                         "alt":  "https://raw.githubusercontent.com/qist/tvbox/master/0826.json",
                         "priority":  40,
-                        "enabled":  true
+                        "enabled":  false
                     },
                     {
                         "id":  "qist_0827",

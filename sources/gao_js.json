@@ -3108,6 +3108,27 @@
                                }
                    }
                ],
+    "lives":  [
+                  {
+                      "name":  "初秋语",
+                      "type":  0,
+                      "url":  "./list.txt",
+                      "playerType":  2,
+                      "epg":  "http://epg.112114.xyz/?ch={name}\u0026date={date}",
+                      "logo":  "https://epg.112114.xyz/logo/{name}.png"
+                  },
+                  {
+                      "name":  "Ray",
+                      "type":  0,
+                      "url":  "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+                      "playerType":  1,
+                      "epg":  "http://epg.112114.xyz/?ch={name}\u0026date={date}",
+                      "logo":  "https://epg.112114.xyz/logo/{name}.png"
+                  }
+              ],
+    "ijk":  [
+
+            ],
     "flags":  [
                   "youku",
                   "优酷",
@@ -3170,5 +3191,12 @@
                   "funshion",
                   "ruyi1080",
                   "ruyib1080"
-              ]
+              ],
+    "hosts":  [
+
+              ],
+    "ads":  [
+                "static-mozai.4gtv.tv",
+                "s3t3d2y8.afcdn.net"
+            ]
 }

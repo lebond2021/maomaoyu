@@ -523,5 +523,36 @@
     "parses":  [
 
                ],
-    "flags":  null
+    "lives":  [
+                  {
+                      "name":  "初秋语",
+                      "type":  0,
+                      "url":  "./listx.m3u"
+                  },
+                  {
+                      "name":  "atsushi",
+                      "type":  0,
+                      "url":  "https://fongmi.cachefly.net/atsushi444/iptv-epg/main/Adult.m3u"
+                  },
+                  {
+                      "name":  "小武哥",
+                      "type":  0,
+                      "url":  "https://qu.ax/PEHy.txt"
+                  },
+                  {
+                      "name":  "AV",
+                      "type":  0,
+                      "url":  "./livex.m3u"
+                  }
+              ],
+    "ijk":  [
+
+            ],
+    "flags":  null,
+    "hosts":  [
+
+              ],
+    "ads":  [
+
+            ]
 }
