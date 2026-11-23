@@ -1,0 +1,79 @@
+{
+  "version": 2026112310,
+  "updated": "2026-11-23 10:47",
+  "remoteIndex": "https://gitee.com/lebond/maomaoyu/raw/master/catalog.json",
+  "sources": [
+    {
+      "id": "qist_jsm",
+      "name": "TVBox jsm",
+      "url": "https://gitee.com/lebond/maomaoyu/raw/master/sources/qist_jsm.json",
+      "alt": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "priority": 100,
+      "enabled": true
+    },
+    {
+      "id": "qist_0825",
+      "name": "TVBox 0825",
+      "url": "https://gitee.com/lebond/maomaoyu/raw/master/sources/qist_0825.json",
+      "alt": "https://raw.githubusercontent.com/qist/tvbox/master/0825.json",
+      "priority": 95,
+      "enabled": true
+    },
+    {
+      "id": "dongli",
+      "name": "动力 TV",
+      "url": "https://gitee.com/lebond/maomaoyu/raw/master/sources/dongli.json",
+      "alt": "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
+      "priority": 88,
+      "enabled": true
+    },
+    {
+      "id": "qist_0821",
+      "name": "TVBox 0821",
+      "url": "https://gitee.com/lebond/maomaoyu/raw/master/sources/qist_0821.json",
+      "alt": "https://raw.githubusercontent.com/qist/tvbox/master/0821.json",
+      "priority": 85,
+      "enabled": true
+    },
+    {
+      "id": "qist_9918",
+      "name": "TVBox 9918",
+      "url": "https://gitee.com/lebond/maomaoyu/raw/master/sources/qist_9918.json",
+      "alt": "https://raw.githubusercontent.com/qist/tvbox/master/9918.json",
+      "priority": 80,
+      "enabled": true
+    },
+    {
+      "id": "qist_0826",
+      "name": "TVBox 0826",
+      "url": "https://gitee.com/lebond/maomaoyu/raw/master/sources/qist_0826.json",
+      "alt": "https://raw.githubusercontent.com/qist/tvbox/master/0826.json",
+      "priority": 75,
+      "enabled": true
+    },
+    {
+      "id": "qist_fty",
+      "name": "饭太硬 fty",
+      "url": "https://gitee.com/lebond/maomaoyu/raw/master/sources/qist_fty.json",
+      "alt": "https://raw.githubusercontent.com/qist/tvbox/master/fty.json",
+      "priority": 70,
+      "enabled": true
+    },
+    {
+      "id": "qist_0827",
+      "name": "TVBox 0827",
+      "url": "https://gitee.com/lebond/maomaoyu/raw/master/sources/qist_0827.json",
+      "alt": "https://raw.githubusercontent.com/qist/tvbox/master/0827.json",
+      "priority": 60,
+      "enabled": true
+    },
+    {
+      "id": "gao_js",
+      "name": "高天流云 js",
+      "url": "https://gitee.com/lebond/maomaoyu/raw/master/sources/gao_js.json",
+      "alt": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "priority": 20,
+      "enabled": true
+    }
+  ]
+}
