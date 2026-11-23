@@ -1,0 +1,2374 @@
+{
+    "updated":  "2026-11-23 15:05",
+    "keyword":  "庆余年",
+    "sites":  {
+                  "点我切源":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "MDrive":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  0,
+                                 "msg":  "relative-skip",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "玩偶":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "YGP":  {
+                              "type":  3,
+                              "ok":  true,
+                              "ms":  0,
+                              "msg":  "relative-skip",
+                              "hasM3u8":  false,
+                              "noSearch":  false
+                          },
+                  "alllive":  {
+                                  "type":  3,
+                                  "ok":  true,
+                                  "ms":  0,
+                                  "msg":  "relative-skip",
+                                  "hasM3u8":  false,
+                                  "noSearch":  false
+                              },
+                  "MTV1":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "爱刷":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "seed":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "粤迷":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "韩剧":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "光影":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "厂长":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "立播":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "瓜子":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "比特":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "花生":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "糯米":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "文采":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "剧迷":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "热播":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "风云":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "荐片":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "奥特":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "新6V":  {
+                              "type":  3,
+                              "ok":  true,
+                              "ms":  0,
+                              "msg":  "relative-skip",
+                              "hasM3u8":  false,
+                              "noSearch":  false
+                          },
+                  "AiDj":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "Dm84":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "看球":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "多多":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "吃瓜":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "Bili":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "有声小说":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "Aid":  {
+                              "type":  3,
+                              "ok":  true,
+                              "ms":  0,
+                              "msg":  "relative-skip",
+                              "hasM3u8":  false,
+                              "noSearch":  false
+                          },
+                  "虎牙js":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "ZPan":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "YpanSo":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  0,
+                                 "msg":  "relative-skip",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "BpanSo":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  0,
+                                 "msg":  "relative-skip",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "抠搜":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "UC":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "push_agent":  {
+                                     "type":  3,
+                                     "ok":  true,
+                                     "ms":  0,
+                                     "msg":  "relative-skip",
+                                     "hasM3u8":  false,
+                                     "noSearch":  false
+                                 },
+                  "cc":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "豆瓣":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "配置":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "金牌影视":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "jianpian":  {
+                                   "type":  3,
+                                   "ok":  true,
+                                   "ms":  0,
+                                   "msg":  "relative-skip",
+                                   "hasM3u8":  false,
+                                   "noSearch":  false
+                               },
+                  "热播影视":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "老张":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "Libvio":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  0,
+                                 "msg":  "relative-skip",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "KuaKeS":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  0,
+                                 "msg":  "relative-skip",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "人人":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "FourKZn":  {
+                                  "type":  3,
+                                  "ok":  true,
+                                  "ms":  0,
+                                  "msg":  "relative-skip",
+                                  "hasM3u8":  false,
+                                  "noSearch":  false
+                              },
+                  "Huya":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "Douyu":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  0,
+                                "msg":  "relative-skip",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "KuaiShou":  {
+                                   "type":  3,
+                                   "ok":  true,
+                                   "ms":  0,
+                                   "msg":  "relative-skip",
+                                   "hasM3u8":  false,
+                                   "noSearch":  false
+                               },
+                  "BiliLive":  {
+                                   "type":  3,
+                                   "ok":  true,
+                                   "ms":  0,
+                                   "msg":  "relative-skip",
+                                   "hasM3u8":  false,
+                                   "noSearch":  false
+                               },
+                  "腾腾视频":  {
+                               "type":  3,
+                               "ok":  false,
+                               "ms":  1509,
+                               "msg":  "http410",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "360影视":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  0,
+                                "msg":  "relative-skip",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "火狐":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "天堂":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "360资源":  {
+                                "type":  1,
+                                "ok":  true,
+                                "ms":  1663,
+                                "msg":  "hit-json",
+                                "hasM3u8":  true,
+                                "noSearch":  false
+                            },
+                  "非凡":  {
+                             "type":  1,
+                             "ok":  true,
+                             "ms":  1394,
+                             "msg":  "hit-json",
+                             "hasM3u8":  true,
+                             "noSearch":  false
+                         },
+                  "量子":  {
+                             "type":  0,
+                             "ok":  true,
+                             "ms":  1514,
+                             "msg":  "hit-xml",
+                             "hasM3u8":  true,
+                             "noSearch":  false
+                         },
+                  "juheduanju":  {
+                                     "type":  3,
+                                     "ok":  true,
+                                     "ms":  0,
+                                     "msg":  "relative-skip",
+                                     "hasM3u8":  false,
+                                     "noSearch":  false
+                                 },
+                  "HeMa":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "xiqu":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "CNTV":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "蜻蜓FM":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "tingchina":  {
+                                    "type":  3,
+                                    "ok":  true,
+                                    "ms":  0,
+                                    "msg":  "relative-skip",
+                                    "hasM3u8":  false,
+                                    "noSearch":  false
+                                },
+                  "bilibili":  {
+                                   "type":  3,
+                                   "ok":  true,
+                                   "ms":  0,
+                                   "msg":  "relative-skip",
+                                   "hasM3u8":  false,
+                                   "noSearch":  false
+                               },
+                  "哔哩影视":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "Jzb":  {
+                              "type":  3,
+                              "ok":  true,
+                              "ms":  0,
+                              "msg":  "relative-skip",
+                              "hasM3u8":  false,
+                              "noSearch":  false
+                          },
+                  "瓜子体育":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "csp_XYQHiker_兔小贝":  {
+                                           "type":  3,
+                                           "ok":  true,
+                                           "ms":  0,
+                                           "msg":  "relative-skip",
+                                           "hasM3u8":  false,
+                                           "noSearch":  false
+                                       },
+                  "DmBus":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  0,
+                                "msg":  "relative-skip",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "急救教学":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "Local":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  0,
+                                "msg":  "relative-skip",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "WebDAV":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  0,
+                                 "msg":  "relative-skip",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "Samba":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  0,
+                                "msg":  "relative-skip",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "localdb":  {
+                                  "type":  3,
+                                  "ok":  true,
+                                  "ms":  0,
+                                  "msg":  "relative-skip",
+                                  "hasM3u8":  false,
+                                  "noSearch":  false
+                              },
+                  "song_1a48b":  {
+                                     "type":  3,
+                                     "ok":  true,
+                                     "ms":  0,
+                                     "msg":  "relative-skip",
+                                     "hasM3u8":  false,
+                                     "noSearch":  false
+                                 },
+                  "networkdb":  {
+                                    "type":  3,
+                                    "ok":  true,
+                                    "ms":  0,
+                                    "msg":  "relative-skip",
+                                    "hasM3u8":  false,
+                                    "noSearch":  false
+                                },
+                  "myuc":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "myquark":  {
+                                  "type":  3,
+                                  "ok":  true,
+                                  "ms":  0,
+                                  "msg":  "relative-skip",
+                                  "hasM3u8":  false,
+                                  "noSearch":  false
+                              },
+                  "mybaidu":  {
+                                  "type":  3,
+                                  "ok":  true,
+                                  "ms":  0,
+                                  "msg":  "relative-skip",
+                                  "hasM3u8":  false,
+                                  "noSearch":  false
+                              },
+                  "myxunlei":  {
+                                   "type":  3,
+                                   "ok":  true,
+                                   "ms":  0,
+                                   "msg":  "relative-skip",
+                                   "hasM3u8":  false,
+                                   "noSearch":  false
+                               },
+                  "myali":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  0,
+                                "msg":  "relative-skip",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "mytianyi":  {
+                                   "type":  3,
+                                   "ok":  true,
+                                   "ms":  0,
+                                   "msg":  "relative-skip",
+                                   "hasM3u8":  false,
+                                   "noSearch":  false
+                               },
+                  "商店":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "PanSouQuark":  {
+                                      "type":  3,
+                                      "ok":  true,
+                                      "ms":  0,
+                                      "msg":  "relative-skip",
+                                      "hasM3u8":  false,
+                                      "noSearch":  false
+                                  },
+                  "原创":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "苹果":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "白白":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "神车":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "zxzj":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "溢彩":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "低端":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "Ysj":  {
+                              "type":  3,
+                              "ok":  true,
+                              "ms":  0,
+                              "msg":  "relative-skip",
+                              "hasM3u8":  false,
+                              "noSearch":  false
+                          },
+                  "Anime1":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  0,
+                                 "msg":  "relative-skip",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "926":  {
+                              "type":  3,
+                              "ok":  true,
+                              "ms":  0,
+                              "msg":  "relative-skip",
+                              "hasM3u8":  false,
+                              "noSearch":  false
+                          },
+                  "88":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "Jrsjs":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  1582,
+                                "msg":  "http200",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "虎牙直播js":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  1076,
+                                 "msg":  "http200",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "xzso":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "米搜":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "夸搜":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "YiSo":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "AList":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  0,
+                                "msg":  "relative-skip",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "百度":  {
+                             "type":  1,
+                             "ok":  true,
+                             "ms":  1361,
+                             "msg":  "hit-json",
+                             "hasM3u8":  true,
+                             "noSearch":  false
+                         },
+                  "haiwaikan":  {
+                                    "type":  1,
+                                    "ok":  true,
+                                    "ms":  1115,
+                                    "msg":  "reachable-no-hit",
+                                    "hasM3u8":  false,
+                                    "noSearch":  false
+                                },
+                  "暴風":  {
+                             "type":  1,
+                             "ok":  true,
+                             "ms":  1241,
+                             "msg":  "hit-json",
+                             "hasM3u8":  true,
+                             "noSearch":  false
+                         },
+                  "索尼":  {
+                             "type":  0,
+                             "ok":  true,
+                             "ms":  668,
+                             "msg":  "no-search",
+                             "hasM3u8":  false,
+                             "noSearch":  true
+                         },
+                  "快帆":  {
+                             "type":  1,
+                             "ok":  false,
+                             "ms":  1478,
+                             "msg":  "http0",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "cupfox_in":  {
+                                    "type":  3,
+                                    "ok":  true,
+                                    "ms":  0,
+                                    "msg":  "relative-skip",
+                                    "hasM3u8":  false,
+                                    "noSearch":  false
+                                },
+                  "泥巴":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "星星":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "獨播":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "櫻花":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "巴士":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "異界":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "bili_open":  {
+                                    "type":  3,
+                                    "ok":  true,
+                                    "ms":  0,
+                                    "msg":  "relative-skip",
+                                    "hasM3u8":  false,
+                                    "noSearch":  false
+                                },
+                  "酷狗":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "JustLive":  {
+                                   "type":  3,
+                                   "ok":  true,
+                                   "ms":  0,
+                                   "msg":  "relative-skip",
+                                   "hasM3u8":  false,
+                                   "noSearch":  false
+                               },
+                  "七夜":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "易搜":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "雲搜":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "紙條搜":  {
+                              "type":  3,
+                              "ok":  true,
+                              "ms":  0,
+                              "msg":  "relative-skip",
+                              "hasM3u8":  false,
+                              "noSearch":  false
+                          },
+                  "盤搜索":  {
+                              "type":  3,
+                              "ok":  true,
+                              "ms":  0,
+                              "msg":  "relative-skip",
+                              "hasM3u8":  false,
+                              "noSearch":  false
+                          },
+                  "找資源":  {
+                              "type":  3,
+                              "ok":  true,
+                              "ms":  0,
+                              "msg":  "relative-skip",
+                              "hasM3u8":  false,
+                              "noSearch":  false
+                          },
+                  "配置中心":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "本地":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "csp_YGP":  {
+                                  "type":  3,
+                                  "ok":  true,
+                                  "ms":  0,
+                                  "msg":  "relative-skip",
+                                  "hasM3u8":  false,
+                                  "noSearch":  false
+                              },
+                  "fyyy":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "云播":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "未来":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "快映fox":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  0,
+                                "msg":  "relative-skip",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "一起影视":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "咕噜":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "布布":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "马猴影视":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "韩圈":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "师兄":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "剧圈99":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "蓝鹰":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "哔哩视频":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "快映":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "花卷":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "种子":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "搬运":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "指南":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "茉莉":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "爱盼":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "移动":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "即刻":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "双星":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "卡卡":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "七猫短剧":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "河马短剧":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "围观短剧":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "好看短剧":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "星芽短剧":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "看剧":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "懂片":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "星辰影视":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "旺旺影视":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "独播影视":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "瓜子影视":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "厂长影视":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "骚火影视":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "Ikanbot":  {
+                                  "type":  3,
+                                  "ok":  true,
+                                  "ms":  0,
+                                  "msg":  "relative-skip",
+                                  "hasM3u8":  false,
+                                  "noSearch":  false
+                              },
+                  "1905":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "赏月动漫":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "稀饭动漫":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "巴士动漫":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "吉里动漫":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "花子动漫":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "漫国动漫":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "New6v":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  0,
+                                "msg":  "relative-skip",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "美剧迷":  {
+                              "type":  3,
+                              "ok":  true,
+                              "ms":  0,
+                              "msg":  "relative-skip",
+                              "hasM3u8":  false,
+                              "noSearch":  false
+                          },
+                  "迅雷吧":  {
+                              "type":  3,
+                              "ok":  true,
+                              "ms":  0,
+                              "msg":  "relative-skip",
+                              "hasM3u8":  false,
+                              "noSearch":  false
+                          },
+                  "电影港":  {
+                              "type":  3,
+                              "ok":  true,
+                              "ms":  0,
+                              "msg":  "relative-skip",
+                              "hasM3u8":  false,
+                              "noSearch":  false
+                          },
+                  "阿里云盘":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "夸克网盘":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "UC网盘":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "百度网盘":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "迅雷云盘":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "光鸭云盘":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "天翼云盘":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "123云盘":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  0,
+                                "msg":  "relative-skip",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "觅盘":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "酷乐":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "百酷":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "趣盘":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "88看球":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "飞球体育":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "咖啡体育":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "球通体育":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "呦呦DJ":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "听友听书":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "堇夏听书":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "博看听书":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "戏曲多多":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "童趣":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "兔小贝":  {
+                              "type":  3,
+                              "ok":  true,
+                              "ms":  0,
+                              "msg":  "relative-skip",
+                              "hasM3u8":  false,
+                              "noSearch":  false
+                          },
+                  "贝乐虎":  {
+                              "type":  3,
+                              "ok":  true,
+                              "ms":  0,
+                              "msg":  "relative-skip",
+                              "hasM3u8":  false,
+                              "noSearch":  false
+                          },
+                  "养生堂":  {
+                              "type":  3,
+                              "ok":  true,
+                              "ms":  0,
+                              "msg":  "relative-skip",
+                              "hasM3u8":  false,
+                              "noSearch":  false
+                          },
+                  "电影天堂":  {
+                               "type":  1,
+                               "ok":  true,
+                               "ms":  867,
+                               "msg":  "hit-json",
+                               "hasM3u8":  true,
+                               "noSearch":  false
+                           },
+                  "天涯采集":  {
+                               "type":  1,
+                               "ok":  true,
+                               "ms":  552,
+                               "msg":  "no-search",
+                               "hasM3u8":  false,
+                               "noSearch":  true
+                           },
+                  "卧龙资源":  {
+                               "type":  1,
+                               "ok":  true,
+                               "ms":  1527,
+                               "msg":  "reachable-no-hit",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "U酷资源風":  {
+                                "type":  1,
+                                "ok":  true,
+                                "ms":  1389,
+                                "msg":  "hit-json",
+                                "hasM3u8":  true,
+                                "noSearch":  false
+                            },
+                  "极速资源":  {
+                               "type":  1,
+                               "ok":  true,
+                               "ms":  1032,
+                               "msg":  "hit-json",
+                               "hasM3u8":  true,
+                               "noSearch":  false
+                           },
+                  "建安采集":  {
+                               "type":  1,
+                               "ok":  true,
+                               "ms":  1546,
+                               "msg":  "hit-json",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "金蝉采集":  {
+                               "type":  1,
+                               "ok":  false,
+                               "ms":  1483,
+                               "msg":  "http0",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "小绵阳采集":  {
+                                "type":  1,
+                                "ok":  false,
+                                "ms":  746,
+                                "msg":  "http404",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "率率":  {
+                             "type":  1,
+                             "ok":  true,
+                             "ms":  656,
+                             "msg":  "no-search",
+                             "hasM3u8":  false,
+                             "noSearch":  true
+                         },
+                  "Youtube":  {
+                                  "type":  3,
+                                  "ok":  true,
+                                  "ms":  0,
+                                  "msg":  "relative-skip",
+                                  "hasM3u8":  false,
+                                  "noSearch":  false
+                              },
+                  "lf_js_lf_live":  {
+                                        "type":  3,
+                                        "ok":  true,
+                                        "ms":  0,
+                                        "msg":  "relative-skip",
+                                        "hasM3u8":  false,
+                                        "noSearch":  false
+                                    },
+                  "TGYunPanLocal":  {
+                                        "type":  3,
+                                        "ok":  true,
+                                        "ms":  0,
+                                        "msg":  "relative-skip",
+                                        "hasM3u8":  false,
+                                        "noSearch":  false
+                                    },
+                  "TGYunPan":  {
+                                   "type":  3,
+                                   "ok":  true,
+                                   "ms":  0,
+                                   "msg":  "relative-skip",
+                                   "hasM3u8":  false,
+                                   "noSearch":  false
+                               },
+                  "88js":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "csp_XPath_企鹅体育":  {
+                                         "type":  3,
+                                         "ok":  true,
+                                         "ms":  0,
+                                         "msg":  "relative-skip",
+                                         "hasM3u8":  false,
+                                         "noSearch":  false
+                                     },
+                  "Iktv":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "Yinyuetai":  {
+                                    "type":  3,
+                                    "ok":  true,
+                                    "ms":  0,
+                                    "msg":  "relative-skip",
+                                    "hasM3u8":  false,
+                                    "noSearch":  false
+                                },
+                  "PushShare":  {
+                                    "type":  3,
+                                    "ok":  true,
+                                    "ms":  0,
+                                    "msg":  "relative-skip",
+                                    "hasM3u8":  false,
+                                    "noSearch":  false
+                                },
+                  "PikPakShare":  {
+                                      "type":  3,
+                                      "ok":  true,
+                                      "ms":  0,
+                                      "msg":  "relative-skip",
+                                      "hasM3u8":  false,
+                                      "noSearch":  false
+                                  },
+                  "AliShare":  {
+                                   "type":  3,
+                                   "ok":  true,
+                                   "ms":  0,
+                                   "msg":  "relative-skip",
+                                   "hasM3u8":  false,
+                                   "noSearch":  false
+                               },
+                  "ThunderShare":  {
+                                       "type":  3,
+                                       "ok":  true,
+                                       "ms":  0,
+                                       "msg":  "relative-skip",
+                                       "hasM3u8":  false,
+                                       "noSearch":  false
+                                   },
+                  "QuarkShare":  {
+                                     "type":  3,
+                                     "ok":  true,
+                                     "ms":  0,
+                                     "msg":  "relative-skip",
+                                     "hasM3u8":  false,
+                                     "noSearch":  false
+                                 },
+                  "115Share":  {
+                                   "type":  3,
+                                   "ok":  true,
+                                   "ms":  0,
+                                   "msg":  "relative-skip",
+                                   "hasM3u8":  false,
+                                   "noSearch":  false
+                               },
+                  "UCShare":  {
+                                  "type":  3,
+                                  "ok":  true,
+                                  "ms":  0,
+                                  "msg":  "relative-skip",
+                                  "hasM3u8":  false,
+                                  "noSearch":  false
+                              },
+                  "SambaShare":  {
+                                     "type":  3,
+                                     "ok":  true,
+                                     "ms":  0,
+                                     "msg":  "relative-skip",
+                                     "hasM3u8":  false,
+                                     "noSearch":  false
+                                 },
+                  "追剧":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "NanGua":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  0,
+                                 "msg":  "relative-skip",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "Bdys_spider":  {
+                                      "type":  3,
+                                      "ok":  true,
+                                      "ms":  0,
+                                      "msg":  "relative-skip",
+                                      "hasM3u8":  false,
+                                      "noSearch":  false
+                                  },
+                  "Bt0":  {
+                              "type":  3,
+                              "ok":  true,
+                              "ms":  0,
+                              "msg":  "relative-skip",
+                              "hasM3u8":  false,
+                              "noSearch":  false
+                          },
+                  "MeijuTT":  {
+                                  "type":  3,
+                                  "ok":  true,
+                                  "ms":  0,
+                                  "msg":  "relative-skip",
+                                  "hasM3u8":  false,
+                                  "noSearch":  false
+                              },
+                  "Mayiys":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  0,
+                                 "msg":  "relative-skip",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "csp_Kuaikan":  {
+                                      "type":  3,
+                                      "ok":  true,
+                                      "ms":  0,
+                                      "msg":  "relative-skip",
+                                      "hasM3u8":  false,
+                                      "noSearch":  false
+                                  },
+                  "影视":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "土豆":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "Moli":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "Xinshijue":  {
+                                    "type":  3,
+                                    "ok":  true,
+                                    "ms":  0,
+                                    "msg":  "relative-skip",
+                                    "hasM3u8":  false,
+                                    "noSearch":  false
+                                },
+                  "Gaoqing":  {
+                                  "type":  3,
+                                  "ok":  true,
+                                  "ms":  0,
+                                  "msg":  "relative-skip",
+                                  "hasM3u8":  false,
+                                  "noSearch":  false
+                              },
+                  "ddys":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "Ppxzy":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  0,
+                                "msg":  "relative-skip",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "Panta":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  0,
+                                "msg":  "relative-skip",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "Hdhive":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  0,
+                                 "msg":  "relative-skip",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "4KHDR":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  0,
+                                "msg":  "relative-skip",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "校长影视":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "团长资源":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "YunPan":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  0,
+                                 "msg":  "relative-skip",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "Wo4k":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "Xpanpan":  {
+                                  "type":  3,
+                                  "ok":  true,
+                                  "ms":  0,
+                                  "msg":  "relative-skip",
+                                  "hasM3u8":  false,
+                                  "noSearch":  false
+                              },
+                  "YingSo":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  0,
+                                 "msg":  "relative-skip",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "盘友圈":  {
+                              "type":  3,
+                              "ok":  true,
+                              "ms":  0,
+                              "msg":  "relative-skip",
+                              "hasM3u8":  false,
+                              "noSearch":  false
+                          },
+                  "88Pan":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  0,
+                                "msg":  "relative-skip",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "PikaSo":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  0,
+                                 "msg":  "relative-skip",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "csp_HunHePan":  {
+                                       "type":  3,
+                                       "ok":  true,
+                                       "ms":  0,
+                                       "msg":  "relative-skip",
+                                       "hasM3u8":  false,
+                                       "noSearch":  false
+                                   },
+                  "秒搜":  {
+                             "type":  3,
+                             "ok":  true,
+                             "ms":  0,
+                             "msg":  "relative-skip",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "DaPanSo":  {
+                                  "type":  3,
+                                  "ok":  true,
+                                  "ms":  0,
+                                  "msg":  "relative-skip",
+                                  "hasM3u8":  false,
+                                  "noSearch":  false
+                              },
+                  "Qianfan":  {
+                                  "type":  3,
+                                  "ok":  true,
+                                  "ms":  0,
+                                  "msg":  "relative-skip",
+                                  "hasM3u8":  false,
+                                  "noSearch":  false
+                              },
+                  "YunSo":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  0,
+                                "msg":  "relative-skip",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "YunPanOne":  {
+                                    "type":  3,
+                                    "ok":  true,
+                                    "ms":  0,
+                                    "msg":  "relative-skip",
+                                    "hasM3u8":  false,
+                                    "noSearch":  false
+                                },
+                  "Gitcafe":  {
+                                  "type":  3,
+                                  "ok":  true,
+                                  "ms":  0,
+                                  "msg":  "relative-skip",
+                                  "hasM3u8":  false,
+                                  "noSearch":  false
+                              },
+                  "Funletu":  {
+                                  "type":  3,
+                                  "ok":  true,
+                                  "ms":  0,
+                                  "msg":  "relative-skip",
+                                  "hasM3u8":  false,
+                                  "noSearch":  false
+                              },
+                  "QuarkPanso":  {
+                                     "type":  3,
+                                     "ok":  true,
+                                     "ms":  0,
+                                     "msg":  "relative-skip",
+                                     "hasM3u8":  false,
+                                     "noSearch":  false
+                                 },
+                  "push_quark":  {
+                                     "type":  3,
+                                     "ok":  true,
+                                     "ms":  0,
+                                     "msg":  "relative-skip",
+                                     "hasM3u8":  false,
+                                     "noSearch":  false
+                                 },
+                  "乐视":  {
+                             "type":  1,
+                             "ok":  false,
+                             "ms":  6517,
+                             "msg":  "http0",
+                             "hasM3u8":  false,
+                             "noSearch":  false
+                         },
+                  "lf_js_search":  {
+                                       "type":  3,
+                                       "ok":  true,
+                                       "ms":  0,
+                                       "msg":  "relative-skip",
+                                       "hasM3u8":  false,
+                                       "noSearch":  false
+                                   },
+                  "lf_js_p2p":  {
+                                    "type":  3,
+                                    "ok":  true,
+                                    "ms":  0,
+                                    "msg":  "relative-skip",
+                                    "hasM3u8":  false,
+                                    "noSearch":  false
+                                },
+                  "csp_BtSow":  {
+                                    "type":  3,
+                                    "ok":  true,
+                                    "ms":  0,
+                                    "msg":  "relative-skip",
+                                    "hasM3u8":  false,
+                                    "noSearch":  false
+                                },
+                  "csp_BtSearch":  {
+                                       "type":  3,
+                                       "ok":  true,
+                                       "ms":  0,
+                                       "msg":  "relative-skip",
+                                       "hasM3u8":  false,
+                                       "noSearch":  false
+                                   },
+                  "csp_Netflav":  {
+                                      "type":  3,
+                                      "ok":  true,
+                                      "ms":  0,
+                                      "msg":  "relative-skip",
+                                      "hasM3u8":  false,
+                                      "noSearch":  false
+                                  },
+                  "SeHuaTang":  {
+                                    "type":  3,
+                                    "ok":  true,
+                                    "ms":  0,
+                                    "msg":  "relative-skip",
+                                    "hasM3u8":  false,
+                                    "noSearch":  false
+                                },
+                  "Cable":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  0,
+                                "msg":  "relative-skip",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "AvTime":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  0,
+                                 "msg":  "relative-skip",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "Top888":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  0,
+                                 "msg":  "relative-skip",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "18AV":  {
+                               "type":  3,
+                               "ok":  true,
+                               "ms":  0,
+                               "msg":  "relative-skip",
+                               "hasM3u8":  false,
+                               "noSearch":  false
+                           },
+                  "Jable":  {
+                                "type":  3,
+                                "ok":  true,
+                                "ms":  0,
+                                "msg":  "relative-skip",
+                                "hasM3u8":  false,
+                                "noSearch":  false
+                            },
+                  "MissAV":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  0,
+                                 "msg":  "relative-skip",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "Hanime":  {
+                                 "type":  3,
+                                 "ok":  true,
+                                 "ms":  0,
+                                 "msg":  "relative-skip",
+                                 "hasM3u8":  false,
+                                 "noSearch":  false
+                             },
+                  "155zy.com":  {
+                                    "type":  1,
+                                    "ok":  true,
+                                    "ms":  881,
+                                    "msg":  "hit-json",
+                                    "hasM3u8":  true,
+                                    "noSearch":  false
+                                },
+                  "jkunzy.com":  {
+                                     "type":  1,
+                                     "ok":  true,
+                                     "ms":  676,
+                                     "msg":  "reachable-no-hit",
+                                     "hasM3u8":  false,
+                                     "noSearch":  false
+                                 },
+                  "lebozy.com":  {
+                                     "type":  1,
+                                     "ok":  true,
+                                     "ms":  863,
+                                     "msg":  "hit-json",
+                                     "hasM3u8":  true,
+                                     "noSearch":  false
+                                 },
+                  "senlinzy.com":  {
+                                       "type":  1,
+                                       "ok":  true,
+                                       "ms":  943,
+                                       "msg":  "hit-json",
+                                       "hasM3u8":  true,
+                                       "noSearch":  false
+                                   },
+                  "didizy.com":  {
+                                     "type":  1,
+                                     "ok":  true,
+                                     "ms":  1252,
+                                     "msg":  "hit-json",
+                                     "hasM3u8":  true,
+                                     "noSearch":  false
+                                 },
+                  "vnzyz.com":  {
+                                    "type":  1,
+                                    "ok":  true,
+                                    "ms":  1650,
+                                    "msg":  "reachable-no-hit",
+                                    "hasM3u8":  false,
+                                    "noSearch":  false
+                                },
+                  "laosebizy.com":  {
+                                        "type":  1,
+                                        "ok":  true,
+                                        "ms":  764,
+                                        "msg":  "hit-json",
+                                        "hasM3u8":  true,
+                                        "noSearch":  false
+                                    },
+                  "fhapi9.com":  {
+                                     "type":  1,
+                                     "ok":  true,
+                                     "ms":  777,
+                                     "msg":  "hit-json",
+                                     "hasM3u8":  true,
+                                     "noSearch":  false
+                                 },
+                  "madouse.la":  {
+                                     "type":  1,
+                                     "ok":  true,
+                                     "ms":  558,
+                                     "msg":  "hit-json",
+                                     "hasM3u8":  true,
+                                     "noSearch":  false
+                                 },
+                  "jingpinx.com":  {
+                                       "type":  1,
+                                       "ok":  true,
+                                       "ms":  1601,
+                                       "msg":  "hit-json",
+                                       "hasM3u8":  true,
+                                       "noSearch":  false
+                                   },
+                  "semaozy.com":  {
+                                      "type":  1,
+                                      "ok":  true,
+                                      "ms":  686,
+                                      "msg":  "reachable-no-hit",
+                                      "hasM3u8":  false,
+                                      "noSearch":  false
+                                  },
+                  "lajiaozy.com":  {
+                                       "type":  1,
+                                       "ok":  true,
+                                       "ms":  1619,
+                                       "msg":  "hit-json",
+                                       "hasM3u8":  true,
+                                       "noSearch":  false
+                                   },
+                  "ffzy.tv":  {
+                                  "type":  1,
+                                  "ok":  true,
+                                  "ms":  990,
+                                  "msg":  "hit-json",
+                                  "hasM3u8":  true,
+                                  "noSearch":  false
+                              },
+                  "玉兔资源":  {
+                               "type":  0,
+                               "ok":  true,
+                               "ms":  765,
+                               "msg":  "hit-xml",
+                               "hasM3u8":  true,
+                               "noSearch":  false
+                           },
+                  "lbapiby.com":  {
+                                      "type":  0,
+                                      "ok":  false,
+                                      "ms":  778,
+                                      "msg":  "http502",
+                                      "hasM3u8":  false,
+                                      "noSearch":  false
+                                  },
+                  "pgxdy.com":  {
+                                    "type":  0,
+                                    "ok":  true,
+                                    "ms":  853,
+                                    "msg":  "reachable-no-hit",
+                                    "hasM3u8":  false,
+                                    "noSearch":  false
+                                },
+                  "drpy_js_Alist":  {
+                                        "type":  3,
+                                        "ok":  true,
+                                        "ms":  0,
+                                        "msg":  "relative-skip",
+                                        "hasM3u8":  false,
+                                        "noSearch":  false
+                                    }
+              }
+}
