@@ -1,5 +1,5 @@
 {
-    "spider":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
+    "spider":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt",
     "wallpaper":  "https://wallpaper-1tg.pages.dev/",
     "sites":  [
                   {
@@ -11,7 +11,7 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "玩偶",
@@ -27,7 +27,7 @@
                                   "siteUrl":  "https://www.wogg.com/",
                                   "danMu":  "弹"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "YGP",
@@ -37,7 +37,7 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "alllive",
@@ -48,7 +48,7 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "抠搜",
@@ -62,7 +62,7 @@
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt",
                                   "from":  "4k|auto"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "UC",
@@ -76,7 +76,7 @@
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt",
                                   "from":  "4k|auto"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "原创",
@@ -88,7 +88,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "苹果",
@@ -99,7 +99,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "糯米",
@@ -110,7 +110,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "白白",
@@ -122,7 +122,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "文采",
@@ -134,7 +134,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "神车",
@@ -146,7 +146,7 @@
                       "quickSearch":  0,
                       "changeable":  0,
                       "ext":  "rfOX1voDIQhH8epBwtCFsq+8syyZ18T30GkibomjS1xHcE9fpWU7oKJ1cO9K0M5hrnOHZ9dKjiJz5HEyTr57RZHCqunfFT7jH/mEy+uqVyo=",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "Lib",
@@ -161,7 +161,7 @@
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt",
                                   "from":  "4k|auto"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "zxzj",
@@ -173,7 +173,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "ext":  "https://www.zxzjhd.com/",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "厂长",
@@ -185,7 +185,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "溢彩",
@@ -197,7 +197,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "ext":  "rfOb1uAWbkRHp7hdxprG9un3+T/f19e82TUvZMviAElDfhsS/jcju7U0fe1MnN1h63CTaYIPjmEw9C0qVsgBO8um85+eGlSkG/r2q6m0DA==",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "比特",
@@ -208,7 +208,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "低端",
@@ -220,7 +220,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "萌米",
@@ -233,7 +233,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "ext":  "uqGL1bNENEIVq+dC1p/Y9uWjuA==",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "兄弟",
@@ -245,7 +245,7 @@
                       "quickSearch":  1,
                       "filterable":  1,
                       "ext":  "rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "热播",
@@ -258,7 +258,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "ext":  "uqGL1bNENExT7/hGxpSE5qU=",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "欢视",
@@ -271,7 +271,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "ext":  "uqGL1bNENExT9fFAy5mE5qU=",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "奥特",
@@ -283,7 +283,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "ext":  "https://auete.com/",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "贱贱",
@@ -295,7 +295,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "新6V",
@@ -307,7 +307,7 @@
                       "quickSearch":  1,
                       "changeable":  0,
                       "ext":  "https://www.xb6v.com/",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "Dm84",
@@ -318,7 +318,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "Ysj",
@@ -329,7 +329,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "Anime1",
@@ -340,7 +340,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "926",
@@ -353,7 +353,7 @@
                       "style":  {
                                     "type":  "list"
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "88",
@@ -366,7 +366,7 @@
                       "style":  {
                                     "type":  "list"
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "看球",
@@ -379,7 +379,7 @@
                       "style":  {
                                     "type":  "list"
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "Jrsjs",
@@ -394,7 +394,7 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "酷奇",
@@ -410,7 +410,7 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "MTV",
@@ -427,7 +427,7 @@
                       "ext":  {
                                   "json":  "https://im.feelec.com.cn/res/file.html?id=2c9a91099584ed490195f7bf50ac60b9"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "虎牙直播js",
@@ -444,7 +444,7 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "斗鱼js",
@@ -461,7 +461,7 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "有声小说js",
@@ -477,7 +477,7 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "Aid",
@@ -491,7 +491,7 @@
                                     "type":  "rect",
                                     "ratio":  3.8
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "YpanSo",
@@ -505,7 +505,7 @@
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt",
                                   "from":  "4k|auto"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "xzso",
@@ -519,7 +519,7 @@
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt",
                                   "from":  "4k|auto"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "米搜",
@@ -533,7 +533,7 @@
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt",
                                   "from":  "4k|auto"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "夸搜",
@@ -548,7 +548,7 @@
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt",
                                   "from":  "4k|auto"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "Aliso",
@@ -562,7 +562,7 @@
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt",
                                   "from":  "4k|auto"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "YiSo",
@@ -576,7 +576,7 @@
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt",
                                   "from":  "4k|auto"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "push_agent",
@@ -589,7 +589,7 @@
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt",
                                   "from":  "4k|auto"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "csp_AList",
@@ -601,7 +601,7 @@
                       "filterable":  "1",
                       "changeable":  0,
                       "ext":  "./json/alist.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "新6V",
@@ -613,7 +613,7 @@
                       "changeable":  0,
                       "ext":  "http://www.xb6v.com/",
                       "timeout":  60,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "百度",
@@ -637,7 +637,7 @@
                                          "剧情片",
                                          "战争片"
                                      ],
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "量子",
@@ -682,7 +682,7 @@
                                          "网球",
                                          "斯诺克"
                                      ],
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "非凡",
@@ -722,7 +722,7 @@
                                          "港台动漫",
                                          "海外动漫"
                                      ],
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "haiwaikan",
@@ -731,7 +731,7 @@
                       "api":  "https://haiwaikan.com/api.php/provide/vod",
                       "searchable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "暴風",
@@ -740,7 +740,7 @@
                       "api":  "https://bfzyapi.com/api.php/provide/vod",
                       "searchable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "索尼",
@@ -749,7 +749,7 @@
                       "api":  "https://suoniapi.com/api.php/provide/vod",
                       "searchable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "快帆",
@@ -758,7 +758,7 @@
                       "api":  "https://api.kuaifan.tv/api.php/provide/vod",
                       "searchable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_360影视",
@@ -766,7 +766,7 @@
                       "type":  3,
                       "api":  "./lib/drpy2.min.js",
                       "ext":  "./js/360影视.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_奇珍异兽",
@@ -774,7 +774,7 @@
                       "type":  3,
                       "api":  "./lib/drpy2.min.js",
                       "ext":  "./js/奇珍异兽.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_百忙无果",
@@ -782,7 +782,7 @@
                       "type":  3,
                       "api":  "./lib/drpy2.min.js",
                       "ext":  "./js/百忙无果.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_腾云驾雾",
@@ -790,7 +790,7 @@
                       "type":  3,
                       "api":  "./lib/drpy2.min.js",
                       "ext":  "./js/腾云驾雾.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_菜狗",
@@ -798,7 +798,7 @@
                       "type":  3,
                       "api":  "./lib/drpy2.min.js",
                       "ext":  "./js/菜狗.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_优酷",
@@ -806,7 +806,7 @@
                       "type":  3,
                       "api":  "./lib/drpy2.min.js",
                       "ext":  "./js/优酷.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_我的哔哩",
@@ -819,7 +819,7 @@
                                 },
                       "changeable":  0,
                       "ext":  "./js/我的哔哩.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_哔哩直播",
@@ -832,7 +832,7 @@
                                 },
                       "changeable":  0,
                       "ext":  "./js/哔哩直播.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_JustLive",
@@ -845,7 +845,7 @@
                                 },
                       "changeable":  0,
                       "ext":  "./js/JustLive.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_斗鱼直播",
@@ -858,7 +858,7 @@
                                 },
                       "changeable":  0,
                       "ext":  "./js/斗鱼直播.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_虎牙直播",
@@ -871,7 +871,7 @@
                                 },
                       "changeable":  0,
                       "ext":  "./js/虎牙直播.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_童趣",
@@ -880,7 +880,7 @@
                       "api":  "./lib/drpy2.min.js",
                       "changeable":  0,
                       "ext":  "./js/童趣.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_兔小贝",
@@ -889,7 +889,7 @@
                       "api":  "./lib/drpy2.min.js",
                       "changeable":  0,
                       "ext":  "./js/兔小贝.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_AnFuns",
@@ -897,7 +897,7 @@
                       "type":  3,
                       "api":  "./lib/drpy2.min.js",
                       "ext":  "./js/AnFuns.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_NT动漫",
@@ -905,7 +905,7 @@
                       "type":  3,
                       "api":  "./lib/drpy2.min.js",
                       "ext":  "./js/NT动漫.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_NyaFun",
@@ -913,7 +913,7 @@
                       "type":  3,
                       "api":  "./lib/drpy2.min.js",
                       "ext":  "./js/NyaFun.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_i275听书",
@@ -926,7 +926,7 @@
                                     "ratio":  1
                                 },
                       "ext":  "./js/i275听书.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_爱上你听书网",
@@ -939,7 +939,7 @@
                                     "ratio":  1
                                 },
                       "ext":  "./js/爱上你听书网.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_博看听书",
@@ -952,7 +952,7 @@
                                     "ratio":  1
                                 },
                       "ext":  "./js/博看听书.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "有声小说js",
@@ -967,7 +967,7 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_评书随身听",
@@ -976,7 +976,7 @@
                       "api":  "./lib/drpy2.min.js",
                       "changeable":  0,
                       "ext":  "./js/评书随身听.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_相声随身听",
@@ -985,7 +985,7 @@
                       "api":  "./lib/drpy2.min.js",
                       "changeable":  0,
                       "ext":  "./js/相声随身听.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_好趣网",
@@ -998,7 +998,7 @@
                                     "ratio":  1.1
                                 },
                       "ext":  "./js/好趣网.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_广播迷FM",
@@ -1007,7 +1007,7 @@
                       "api":  "./lib/drpy2.min.js",
                       "changeable":  0,
                       "ext":  "./js/广播迷FM.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_蜻蜓FM",
@@ -1016,7 +1016,7 @@
                       "api":  "./lib/drpy2.min.js",
                       "changeable":  0,
                       "ext":  "./js/蜻蜓FM.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_DJ音乐",
@@ -1025,7 +1025,7 @@
                       "api":  "./lib/drpy2.min.js",
                       "changeable":  0,
                       "ext":  "./js/DJ音乐.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_短视频",
@@ -1034,7 +1034,7 @@
                       "api":  "./lib/drpy2.min.js",
                       "changeable":  0,
                       "ext":  "./js/短视频.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_酷6网",
@@ -1043,7 +1043,7 @@
                       "api":  "./lib/drpy2.min.js",
                       "changeable":  0,
                       "ext":  "./js/酷6网.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_网易公版影像",
@@ -1052,7 +1052,7 @@
                       "api":  "./lib/drpy2.min.js",
                       "changeable":  0,
                       "ext":  "./js/网易公版影像.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "drpy_js_酷奇MV",
@@ -1061,7 +1061,7 @@
                       "api":  "./lib/drpy2.min.js",
                       "changeable":  0,
                       "ext":  "./js/酷奇MV.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "bb",
@@ -1069,7 +1069,7 @@
                       "type":  3,
                       "api":  "./lib/drpy2.min.js",
                       "ext":  "./js/drpy.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   },
                   {
                       "key":  "cc",
@@ -1077,7 +1077,7 @@
                       "type":  3,
                       "api":  "./lib/drpy2.min.js",
                       "ext":  "./js/drpy.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847"
+                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
                   }
               ],
     "parses":  [
