@@ -1,6 +1,6 @@
 {
     "version":  2026112419,
-    "updated":  "2026-11-24 19:01",
+    "updated":  "2026-11-24 19:10",
     "note":  "cms-verified whitelist",
     "items":  [
                   {
@@ -95,7 +95,8 @@
                                      "动作片"
                                  ],
                       "countries":  [
-                                        "加拿大,美国"
+                                        "加拿大",
+                                        "美国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -203,7 +204,8 @@
                                      "动作片"
                                  ],
                       "countries":  [
-                                        "英国,美国"
+                                        "英国",
+                                        "美国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -311,7 +313,8 @@
                                      "动作片"
                                  ],
                       "countries":  [
-                                        "美国,英国"
+                                        "美国",
+                                        "英国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -392,7 +395,9 @@
                                      "动作片"
                                  ],
                       "countries":  [
-                                        "英国,巴基斯坦,美国"
+                                        "英国",
+                                        "巴基斯坦",
+                                        "美国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -527,7 +532,12 @@
                                      "动作片"
                                  ],
                       "countries":  [
-                                        "墨西哥,波兰,挪威,葡萄牙,瑞典,瑞士,"
+                                        "墨西哥",
+                                        "波兰",
+                                        "挪威",
+                                        "葡萄牙",
+                                        "瑞典",
+                                        "瑞士"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -1148,7 +1158,8 @@
                                      "喜剧片"
                                  ],
                       "countries":  [
-                                        "美国,日本"
+                                        "美国",
+                                        "日本"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -1337,7 +1348,8 @@
                                      "喜剧片"
                                  ],
                       "countries":  [
-                                        "英国,美国"
+                                        "英国",
+                                        "美国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -1466,7 +1478,7 @@
                       "tab":  1,
                       "title":  "害群之马",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261019-1/2f8fe21ad3e6c20ccac8b166a95b1a00.webp",
-                      "rate":  "",
+                      "rate":  "7.6",
                       "year":  "2026",
                       "genres":  [
                                      "喜剧片"
@@ -1499,7 +1511,8 @@
                                      "喜剧片"
                                  ],
                       "countries":  [
-                                        "法国,意大利"
+                                        "法国",
+                                        "意大利"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -1574,7 +1587,7 @@
                       "tab":  1,
                       "title":  "祥赌必赢粤语",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261014-1/3952a627842cd8e0473904956c944fae.jpg",
-                      "rate":  "",
+                      "rate":  "6.1",
                       "year":  "2025",
                       "genres":  [
                                      "喜剧片"
@@ -1601,7 +1614,7 @@
                       "tab":  1,
                       "title":  "祥赌必赢国语",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261014-1/42411506b543168cb283fee45f835bda.jpg",
-                      "rate":  "",
+                      "rate":  "6.1",
                       "year":  "2025",
                       "genres":  [
                                      "喜剧片"
@@ -1715,7 +1728,8 @@
                                      "喜剧片"
                                  ],
                       "countries":  [
-                                        "中国香港,中国大陆"
+                                        "中国香港",
+                                        "中国大陆"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -1796,7 +1810,10 @@
                                      "喜剧片"
                                  ],
                       "countries":  [
-                                        "爱尔兰,英国,德国,美国"
+                                        "爱尔兰",
+                                        "英国",
+                                        "德国",
+                                        "美国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -1898,13 +1915,14 @@
                       "tab":  1,
                       "title":  "一个部门的诞生粤语",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260922-1/2705a8cfedcbb41c321ec9e76f479e3b.webp",
-                      "rate":  "",
+                      "rate":  "7.4",
                       "year":  "2026",
                       "genres":  [
                                      "喜剧片"
                                  ],
                       "countries":  [
-                                        "中国香港,中国大陆"
+                                        "中国香港",
+                                        "中国大陆"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -1925,13 +1943,14 @@
                       "tab":  1,
                       "title":  "一个部门的诞生国语",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260922-1/2fad7d35e4796f00290ef3b4a5b00c08.webp",
-                      "rate":  "",
+                      "rate":  "7.4",
                       "year":  "2026",
                       "genres":  [
                                      "喜剧片"
                                  ],
                       "countries":  [
-                                        "中国香港,中国大陆"
+                                        "中国香港",
+                                        "中国大陆"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -2687,7 +2706,8 @@
                                      "爱情片"
                                  ],
                       "countries":  [
-                                        "中国香港,中国台湾"
+                                        "中国香港",
+                                        "中国台湾"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -2714,7 +2734,8 @@
                                      "爱情片"
                                  ],
                       "countries":  [
-                                        "阿根廷,英国"
+                                        "阿根廷",
+                                        "英国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -2762,7 +2783,7 @@
                       "tab":  1,
                       "title":  "索蕾：来自未来的妻子",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260514-1/9509cb269192c8c8c40dcfb8c10f3730.webp",
-                      "rate":  "",
+                      "rate":  "6.3",
                       "year":  "2025",
                       "genres":  [
                                      "爱情片"
@@ -2789,7 +2810,7 @@
                       "tab":  1,
                       "title":  "爱情抓马",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260505-1/81c762f22e2e4bc076b040cfdd63a6e9.webp",
-                      "rate":  "",
+                      "rate":  "7.4",
                       "year":  "2026",
                       "genres":  [
                                      "爱情片"
@@ -2816,13 +2837,14 @@
                       "tab":  1,
                       "title":  "他年她日",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260429-1/f395c7b1e6f7f42b8cade5bebdca1b54.webp",
-                      "rate":  "",
+                      "rate":  "7.5",
                       "year":  "2025",
                       "genres":  [
                                      "爱情片"
                                  ],
                       "countries":  [
-                                        "中国香港,中国台湾"
+                                        "中国香港",
+                                        "中国台湾"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -3028,33 +3050,6 @@
                               ]
                   },
                   {
-                      "id":  "cms1-76006",
-                      "tab":  1,
-                      "title":  "草莓月亮",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20260206-1/08a0acddb263ee1ac2326f498927ddb8.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "爱情片"
-                                 ],
-                      "countries":  [
-
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "76006",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms1-75721",
                       "tab":  1,
                       "title":  "今夜，就算这份爱恋从世界上消失2025",
@@ -3140,7 +3135,7 @@
                       "tab":  1,
                       "title":  "后座",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260115-1/538e3122540ce08847f6dd609cb1805c.jpg",
-                      "rate":  "",
+                      "rate":  "7.0",
                       "year":  "2025",
                       "genres":  [
                                      "爱情片"
@@ -3200,7 +3195,10 @@
                                      "科幻片"
                                  ],
                       "countries":  [
-                                        "波兰,希腊,瑞典,挪威"
+                                        "波兰",
+                                        "希腊",
+                                        "瑞典",
+                                        "挪威"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -3308,7 +3306,8 @@
                                      "科幻片"
                                  ],
                       "countries":  [
-                                        "中国大陆,中国香港"
+                                        "中国大陆",
+                                        "中国香港"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -3487,33 +3486,6 @@
                               ]
                   },
                   {
-                      "id":  "cms1-81098",
-                      "tab":  1,
-                      "title":  "暗流低语",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20260415-1/8465fa9ad8291273098ae522ea1f29df.webp",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
-                                        "加拿大"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "81098",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms1-80986",
                       "tab":  1,
                       "title":  "我的学姐是青蛇",
@@ -3676,60 +3648,6 @@
                               ]
                   },
                   {
-                      "id":  "cms1-71747",
-                      "tab":  1,
-                      "title":  "杀戮循环",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251223-1/329362427e6d938877f8b236bc4d8a6f.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
-                                        "美国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "71747",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-71734",
-                      "tab":  1,
-                      "title":  "玩具熊的五夜惊魂2",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251223-1/978a058467b798259bbbd36c8d0333e1.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
-                                        "美国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "71734",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms1-71079",
                       "tab":  1,
                       "title":  "河童之湄澜怪谈",
@@ -3757,98 +3675,20 @@
                               ]
                   },
                   {
-                      "id":  "cms1-71060",
-                      "tab":  1,
-                      "title":  "钢铁之心2025",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251217-1/6eae1bd92631cfe3209478bb8fa9857d.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
-                                        "俄罗斯"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "71060",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-71008",
-                      "tab":  1,
-                      "title":  "打破无限",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251217-1/5a0d555acc49b4c9dc45f625aa6ad74a.jpg",
-                      "rate":  "",
-                      "year":  "2023",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
-                                        "英国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "71008",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-70965",
-                      "tab":  1,
-                      "title":  "星外来客",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251216-1/ec6edf8bc5fcfb5a45b994e3b4f7c7df.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
-                                        "美国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "70965",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms1-70876",
                       "tab":  1,
                       "title":  "天空的另一面",
                       "pic":  "https://www.mdzypic.com/upload/vod/20251215-1/99b1067a07b811bdaeb2765967b58fe1.jpg",
-                      "rate":  "",
+                      "rate":  "7.7",
                       "year":  "2025",
                       "genres":  [
                                      "科幻片"
                                  ],
                       "countries":  [
-                                        "巴西,墨西哥,荷兰,智利"
+                                        "巴西",
+                                        "墨西哥",
+                                        "荷兰",
+                                        "智利"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -3865,97 +3705,17 @@
                               ]
                   },
                   {
-                      "id":  "cms1-70314",
+                      "id":  "cms1-60999",
                       "tab":  1,
-                      "title":  "梦想黑客",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251209-1/e3eb911cee34fbf9015a2ef7243df715.jpg",
-                      "rate":  "",
+                      "title":  "同甘共苦",
+                      "pic":  "https://www.mdzypic.com/upload/vod/20250811-1/2672dcaef2cb1edf0807ed6df7ec6865.jpg",
+                      "rate":  "7.2",
                       "year":  "2025",
                       "genres":  [
                                      "科幻片"
                                  ],
                       "countries":  [
-                                        "英国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "70314",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-65897",
-                      "tab":  1,
-                      "title":  "异星迷航",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251018-1/b316531b2e1bbf7fa74591801de552ec.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
-                                        "美国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "65897",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-64523",
-                      "tab":  1,
-                      "title":  "量子框架",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250930-1/c71b73023ea0e5fa39911b2288db3571.jpg",
-                      "rate":  "",
-                      "year":  "2024",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
-                                        "美国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "64523",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-63868",
-                      "tab":  1,
-                      "title":  "体外实验",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250921-1/a2426c1a233b87fb749ccd5f470b1cb2.jpg",
-                      "rate":  "",
-                      "year":  "2024",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
+                                        "美国",
                                         "澳大利亚"
                                     ],
                       "votes":  0,
@@ -3965,61 +3725,7 @@
                                   {
                                       "site":  "魔都资源",
                                       "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "63868",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-60999",
-                      "tab":  1,
-                      "title":  "同甘共苦",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250811-1/2672dcaef2cb1edf0807ed6df7ec6865.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
-                                        "美国,澳大利亚"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
                                       "vid":  "60999",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-59071",
-                      "tab":  1,
-                      "title":  "砖墙谜攻",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250710-1/7b1c2d7ebba92450a6433482d92a6f56.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
-                                        "德国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "59071",
                                       "flag":  "line0",
                                       "idx":  0,
                                       "media":  null
@@ -4047,168 +3753,6 @@
                                       "site":  "魔都资源",
                                       "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
                                       "vid":  "58714",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-58166",
-                      "tab":  1,
-                      "title":  "红土地",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250626-1/d58d395e70e9973cb2bb30d6a2687b6a.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
-                                        "中国大陆"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "58166",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-57255",
-                      "tab":  1,
-                      "title":  "我俩的时代",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250611-1/980984583c125517720690ccaabb36f1.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
-                                        "墨西哥"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "57255",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-55684",
-                      "tab":  1,
-                      "title":  "我能有个见证人吗",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250513-1/00bcd44224b0c0ee702bf584a546bdf9.jpg",
-                      "rate":  "",
-                      "year":  "2024",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
-                                        "加拿大"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "55684",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-55555",
-                      "tab":  1,
-                      "title":  "人类冬眠计划",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250511-1/4b572bc5f8cf2edc9466f26460993a3f.jpg",
-                      "rate":  "",
-                      "year":  "2024",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
-                                        "西班牙"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "55555",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-55049",
-                      "tab":  1,
-                      "title":  "爆燃战队奔奔者VS超王者",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250502-1/5cff565be871a479df7aaab5f887dd78.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
-                                        "日本"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "55049",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-54100",
-                      "tab":  1,
-                      "title":  "人造正义",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250414-1/1a94409fb2715df126e7e4837396f8f9.jpg",
-                      "rate":  "",
-                      "year":  "2024",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
-                                        "西班牙"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "54100",
                                       "flag":  "line0",
                                       "idx":  0,
                                       "media":  null
@@ -4247,7 +3791,7 @@
                       "tab":  1,
                       "title":  "黑牢城",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261109-1/8822fb888693cfc07be19f92e5bd8439.webp",
-                      "rate":  "",
+                      "rate":  "6.3",
                       "year":  "2026",
                       "genres":  [
                                      "悬疑片"
@@ -4604,7 +4148,8 @@
                                      "悬疑片"
                                  ],
                       "countries":  [
-                                        "中国大陆,中国香港"
+                                        "中国大陆",
+                                        "中国香港"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -4810,33 +4355,6 @@
                               ]
                   },
                   {
-                      "id":  "cms1-86127",
-                      "tab":  1,
-                      "title":  "我来说出真相",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20260711-1/9352831b6e4b959593e612db3a39851e.webp",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "悬疑片"
-                                 ],
-                      "countries":  [
-                                        "日本"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "86127",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms1-85768",
                       "tab":  1,
                       "title":  "画梦录",
@@ -4860,33 +4378,6 @@
                                       "flag":  "line0",
                                       "idx":  0,
                                       "media":  3
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-72804",
-                      "tab":  1,
-                      "title":  "册杀",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20260103-1/60b8a906f5f155e0b6f06219ba111e02.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "悬疑片"
-                                 ],
-                      "countries":  [
-                                        "中国大陆"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "72804",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
                                   }
                               ]
                   },
@@ -5192,7 +4683,7 @@
                       "tab":  1,
                       "title":  "匿杀",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260112-1/fe58d3112168f595f20516c4068a50e6.jpg",
-                      "rate":  "",
+                      "rate":  "6.1",
                       "year":  "2025",
                       "genres":  [
                                      "悬疑片"
@@ -5381,13 +4872,16 @@
                       "tab":  1,
                       "title":  "向往的冒险",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261123-1/eb865ec71e400c73b1e2d5ff524b38f7.webp",
-                      "rate":  "",
+                      "rate":  "6.6",
                       "year":  "2026",
                       "genres":  [
                                      "剧情片"
                                  ],
                       "countries":  [
-                                        "德国,法国,保加利亚,奥地利"
+                                        "德国",
+                                        "法国",
+                                        "保加利亚",
+                                        "奥地利"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -5435,7 +4929,7 @@
                       "tab":  1,
                       "title":  "多萝西",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261123-1/a6c9311dbbf1ac07c85579145c6b9b36.webp",
-                      "rate":  "",
+                      "rate":  "8.0",
                       "year":  "2026",
                       "genres":  [
                                      "剧情片"
@@ -5522,7 +5016,9 @@
                                      "剧情片"
                                  ],
                       "countries":  [
-                                        "英国,西班牙,意大利"
+                                        "英国",
+                                        "西班牙",
+                                        "意大利"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -5678,7 +5174,7 @@
                       "tab":  1,
                       "title":  "戴高乐之战：淬炼时代",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261116-1/25f40611f7ab72fe476edead14dba4fc.webp",
-                      "rate":  "",
+                      "rate":  "8.0",
                       "year":  "2026",
                       "genres":  [
                                      "剧情片"
@@ -5840,13 +5336,15 @@
                       "tab":  1,
                       "title":  "懦夫2026",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261110-1/8529c7b71add48b5110ffc5063037475.webp",
-                      "rate":  "",
+                      "rate":  "7.3",
                       "year":  "2026",
                       "genres":  [
                                      "剧情片"
                                  ],
                       "countries":  [
-                                        "比利时,法国,荷兰"
+                                        "比利时",
+                                        "法国",
+                                        "荷兰"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -5948,7 +5446,7 @@
                       "tab":  1,
                       "title":  "可能的爱",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261106-1/f242de3a4edec7e99ac3addf03f5870d.webp",
-                      "rate":  "",
+                      "rate":  "8.6",
                       "year":  "2026",
                       "genres":  [
                                      "剧情片"
@@ -6110,13 +5608,14 @@
                       "tab":  1,
                       "title":  "茫然女王",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261101-1/6cbc772182eb52c0109b5b16dc53bf79.webp",
-                      "rate":  "",
+                      "rate":  "7.8",
                       "year":  "2026",
                       "genres":  [
                                      "剧情片"
                                  ],
                       "countries":  [
-                                        "美国,英国"
+                                        "美国",
+                                        "英国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -6137,7 +5636,7 @@
                       "tab":  1,
                       "title":  "爸爸",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261101-1/70a4429cb1712194b378b9277ff3753e.webp",
-                      "rate":  "",
+                      "rate":  "7.4",
                       "year":  "2024",
                       "genres":  [
                                      "剧情片"
@@ -6224,7 +5723,8 @@
                                      "剧情片"
                                  ],
                       "countries":  [
-                                        "奥地利 / 德国"
+                                        "奥地利",
+                                        "德国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -6272,13 +5772,16 @@
                       "tab":  1,
                       "title":  "突如其来",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261029-1/a7e6e28367fa975209121fe351ac8924.webp",
-                      "rate":  "",
+                      "rate":  "7.7",
                       "year":  "2026",
                       "genres":  [
                                      "剧情片"
                                  ],
                       "countries":  [
-                                        "法国,日本,德国,比利时"
+                                        "法国",
+                                        "日本",
+                                        "德国",
+                                        "比利时"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -6353,13 +5856,14 @@
                       "tab":  1,
                       "title":  "黑球",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261024-1/25da4bff3d17bf17ccfc83e960921790.webp",
-                      "rate":  "",
+                      "rate":  "8.4",
                       "year":  "2026",
                       "genres":  [
                                      "剧情片"
                                  ],
                       "countries":  [
-                                        "西班牙,法国"
+                                        "西班牙",
+                                        "法国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -6538,60 +6042,6 @@
                               ]
                   },
                   {
-                      "id":  "cms1-63680",
-                      "tab":  1,
-                      "title":  "731",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250919-1/ec66ebd5fdb00254a7981b2d2680b2b0.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "战争片"
-                                 ],
-                      "countries":  [
-                                        "中国大陆"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "63680",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-62019",
-                      "tab":  1,
-                      "title":  "战斗吧木兰",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250830-1/cf41a9bd0d178b543c38cfda044d389c.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "战争片"
-                                 ],
-                      "countries":  [
-                                        "中国大陆"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "62019",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms1-60392",
                       "tab":  1,
                       "title":  "浴血山河",
@@ -6619,44 +6069,18 @@
                               ]
                   },
                   {
-                      "id":  "cms1-48661",
-                      "tab":  1,
-                      "title":  "除匪",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250111-1/928a5b9facb7af79ed19f8d1ae2649a1.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "战争片"
-                                 ],
-                      "countries":  [
-                                        "中国大陆"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "48661",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms1-45370",
                       "tab":  1,
                       "title":  "闪电战",
                       "pic":  "https://www.mdzypic.com/upload/vod/20241123-2/e5583f91040561bfad5dda8cdb641d7b.jpg",
-                      "rate":  "",
+                      "rate":  "6.2",
                       "year":  "2024",
                       "genres":  [
                                      "战争片"
                                  ],
                       "countries":  [
-                                        "英国,美国"
+                                        "英国",
+                                        "美国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -6673,38 +6097,11 @@
                               ]
                   },
                   {
-                      "id":  "cms1-44023",
-                      "tab":  1,
-                      "title":  "长沙里：被遗忘的英雄们",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20241024-1/bd2375ea3d911b0f6ed2ba687d5fe5b3.jpg",
-                      "rate":  "",
-                      "year":  "2019",
-                      "genres":  [
-                                     "战争片"
-                                 ],
-                      "countries":  [
-                                        "韩国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "44023",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms1-43071",
                       "tab":  1,
                       "title":  "最后的前线",
                       "pic":  "https://www.mdzypic.com/upload/vod/20241012-1/e4d1d9d310122dccd77b9d6049a3df12.jpg",
-                      "rate":  "",
+                      "rate":  "7.7",
                       "year":  "2020",
                       "genres":  [
                                      "战争片"
@@ -6731,13 +6128,18 @@
                       "tab":  1,
                       "title":  "小野田的丛林万夜",
                       "pic":  "https://www.mdzypic.com/upload/vod/20241012-14/728f752eb736d385b8b0b593cba99f70.jpg",
-                      "rate":  "",
+                      "rate":  "7.1",
                       "year":  "2021",
                       "genres":  [
                                      "战争片"
                                  ],
                       "countries":  [
-                                        "法国,日本,德国,比利时,意大利,柬埔寨"
+                                        "法国",
+                                        "日本",
+                                        "德国",
+                                        "比利时",
+                                        "意大利",
+                                        "柬埔寨"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -6808,60 +6210,6 @@
                               ]
                   },
                   {
-                      "id":  "cms1-39277",
-                      "tab":  1,
-                      "title":  "兵临城下·虎贲",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20240920-12/7b6f2cced5dad7a5dc0e984966e4df93.jpg",
-                      "rate":  "",
-                      "year":  "2021",
-                      "genres":  [
-                                     "战争片"
-                                 ],
-                      "countries":  [
-                                        "中国大陆"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "39277",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-37772",
-                      "tab":  1,
-                      "title":  "迫降乌江",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20240915-5/b1c1f5447a6b530c3b7c7a3fcc6159b8.jpg",
-                      "rate":  "",
-                      "year":  "2021",
-                      "genres":  [
-                                     "战争片"
-                                 ],
-                      "countries":  [
-                                        "中国大陆"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "37772",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms1-93167",
                       "tab":  1,
                       "title":  "仲夏惊魂夜",
@@ -6916,33 +6264,6 @@
                               ]
                   },
                   {
-                      "id":  "cms1-92608",
-                      "tab":  1,
-                      "title":  "另一个妈妈",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20261111-1/ba57da461b03ffb4909aeacc74d41da1.webp",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "恐怖片"
-                                 ],
-                      "countries":  [
-                                        "美国,爱尔兰"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "92608",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms1-92289",
                       "tab":  1,
                       "title":  "禁忌问卷",
@@ -6980,7 +6301,8 @@
                                      "恐怖片"
                                  ],
                       "countries":  [
-                                        "美国,德国"
+                                        "美国",
+                                        "德国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -7115,7 +6437,8 @@
                                      "恐怖片"
                                  ],
                       "countries":  [
-                                        "美国,日本"
+                                        "美国",
+                                        "日本"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -7142,7 +6465,8 @@
                                      "恐怖片"
                                  ],
                       "countries":  [
-                                        "英国,美国"
+                                        "英国",
+                                        "美国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -7163,7 +6487,7 @@
                       "tab":  1,
                       "title":  "噬草者",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261020-1/8990ddeaf2dd2f2d487497cc1ea38bbe.webp",
-                      "rate":  "",
+                      "rate":  "6.3",
                       "year":  "2025",
                       "genres":  [
                                      "恐怖片"
@@ -7190,7 +6514,7 @@
                       "tab":  1,
                       "title":  "逃出布迪秀",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261015-1/abac664f49ed02711966d1e12f78a4f6.webp",
-                      "rate":  "",
+                      "rate":  "7.2",
                       "year":  "2026",
                       "genres":  [
                                      "恐怖片"
@@ -7348,44 +6672,19 @@
                               ]
                   },
                   {
-                      "id":  "cms1-90114",
-                      "tab":  1,
-                      "title":  "卖冰淇淋的人",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20260923-1/77a3b263241b79c4479f40077585afda.webp",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "恐怖片"
-                                 ],
-                      "countries":  [
-                                        "美国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "90114",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms1-89874",
                       "tab":  1,
                       "title":  "瘴气营地的青春性事与死亡",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260918-1/19f88d9df23c26565ebc8555e22e4182.webp",
-                      "rate":  "",
+                      "rate":  "7.8",
                       "year":  "2026",
                       "genres":  [
                                      "恐怖片"
                                  ],
                       "countries":  [
-                                        "美国,英国,加拿大"
+                                        "美国",
+                                        "英国",
+                                        "加拿大"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -7493,7 +6792,8 @@
                                      "恐怖片"
                                  ],
                       "countries":  [
-                                        "中国台湾,日本"
+                                        "中国台湾",
+                                        "日本"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -7601,7 +6901,8 @@
                                      "恐怖片"
                                  ],
                       "countries":  [
-                                        "英国,美国"
+                                        "英国",
+                                        "美国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -7628,7 +6929,8 @@
                                      "恐怖片"
                                  ],
                       "countries":  [
-                                        "印度尼西亚,韩国"
+                                        "印度尼西亚",
+                                        "韩国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -7672,33 +6974,6 @@
                               ]
                   },
                   {
-                      "id":  "cms1-88052",
-                      "tab":  1,
-                      "title":  "她个人的地狱",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20260813-1/411fe4e9ed84ea1a5a9b5c8b509aa735.webp",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "恐怖片"
-                                 ],
-                      "countries":  [
-                                        "丹麦,美国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "88052",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms1-87854",
                       "tab":  1,
                       "title":  "鬼低语",
@@ -7709,7 +6984,8 @@
                                      "恐怖片"
                                  ],
                       "countries":  [
-                                        "乌拉圭,阿根廷"
+                                        "乌拉圭",
+                                        "阿根廷"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -7736,7 +7012,8 @@
                                      "恐怖片"
                                  ],
                       "countries":  [
-                                        "英国,美国"
+                                        "英国",
+                                        "美国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -7784,7 +7061,7 @@
                       "tab":  1,
                       "title":  "内华达之瑰",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260802-1/6df8fd8a11aae853e8b44c700f1e902a.webp",
-                      "rate":  "",
+                      "rate":  "6.2",
                       "year":  "2026",
                       "genres":  [
                                      "恐怖片"
@@ -7915,33 +7192,6 @@
                               ]
                   },
                   {
-                      "id":  "cms1-86578",
-                      "tab":  1,
-                      "title":  "惊声尖笑6",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20260720-1/d00afb88e976f71d1cb393bb42f2014b.webp",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "恐怖片"
-                                 ],
-                      "countries":  [
-                                        "美国,英国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "86578",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms1-163885",
                       "tab":  1,
                       "title":  "我不好惹3",
@@ -8000,7 +7250,7 @@
                       "tab":  1,
                       "title":  "蜘蛛侠：崭新之日普通话版",
                       "pic":  "https://image.jinyingimage.com/cover/7190029eda2a3d18512102ef979fcae7.jpg",
-                      "rate":  "",
+                      "rate":  "7.7",
                       "year":  "2026",
                       "genres":  [
                                      "动作片"
@@ -8270,13 +7520,14 @@
                       "tab":  1,
                       "title":  "拿破仑2023",
                       "pic":  "https://image.jinyingimage.com/cover/6d4a572abce433d766ecedfc29d769c2.jpg",
-                      "rate":  "",
+                      "rate":  "6.5",
                       "year":  "2023",
                       "genres":  [
                                      "动作片"
                                  ],
                       "countries":  [
-                                        "英国 / 美国"
+                                        "英国",
+                                        "美国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -8351,7 +7602,7 @@
                       "tab":  1,
                       "title":  "丛林奇航",
                       "pic":  "https://image.jinyingimage.com/cover/f033ab37c30201f73f142449d037028d.jpg",
-                      "rate":  "",
+                      "rate":  "6.1",
                       "year":  "2021",
                       "genres":  [
                                      "动作片"
@@ -9404,7 +8655,7 @@
                       "tab":  1,
                       "title":  "你最后留下的歌",
                       "pic":  "https://image.jinyingimage.com/cover/1bb4637e55727a43c022ef58657ed69b.jpg",
-                      "rate":  "",
+                      "rate":  "6.3",
                       "year":  "2026",
                       "genres":  [
                                      "爱情片"
@@ -9890,7 +9141,7 @@
                       "tab":  1,
                       "title":  "荒井小姐的秘密生活",
                       "pic":  "https://image.jinyingimage.com/cover/34bfa620b6b0a67ef5432d99ed9f908d.jpg",
-                      "rate":  "",
+                      "rate":  "6.4",
                       "year":  "2019",
                       "genres":  [
                                      "爱情片"
@@ -10214,7 +9465,7 @@
                       "tab":  1,
                       "title":  "假面骑士零一真实×时间劇場版",
                       "pic":  "https://image.jinyingimage.com/cover/092bf1b740ede3270f57f8f40c5cd18d.jpg",
-                      "rate":  "",
+                      "rate":  "8.8",
                       "year":  "2020",
                       "genres":  [
                                      "科幻片"
@@ -10777,6 +10028,33 @@
                               ]
                   },
                   {
+                      "id":  "cms1-162321",
+                      "tab":  1,
+                      "title":  "柳条人",
+                      "pic":  "https://image.jinyingimage.com/cover/5fb1e73e2dbcb241a154eed65733b22d.jpg",
+                      "rate":  "7.7",
+                      "year":  "2026",
+                      "genres":  [
+                                     "剧情片"
+                                 ],
+                      "countries":  [
+                                        "美国"
+                                    ],
+                      "votes":  0,
+                      "eps":  0,
+                      "dur":  0,
+                      "src":  [
+                                  {
+                                      "site":  "金鹰资源",
+                                      "api":  "https://jinyingzy.com/provide/vod/",
+                                      "vid":  "162321",
+                                      "flag":  "line1",
+                                      "idx":  0,
+                                      "media":  null
+                                  }
+                              ]
+                  },
+                  {
                       "id":  "cms1-164870",
                       "tab":  1,
                       "title":  "太平洋",
@@ -10808,7 +10086,7 @@
                       "tab":  1,
                       "title":  "峡湾",
                       "pic":  "https://image.jinyingimage.com/cover/0c5c6b798bb86832e5a0d95d06b3b6ed.jpg",
-                      "rate":  "",
+                      "rate":  "7.8",
                       "year":  "2026",
                       "genres":  [
                                      "剧情片"
@@ -11105,7 +10383,7 @@
                       "tab":  1,
                       "title":  "温柔的怪物",
                       "pic":  "https://image.jinyingimage.com/cover/8f095f1e07b7005c2d84602ff0115b0d.jpg",
-                      "rate":  "",
+                      "rate":  "6.0",
                       "year":  "2026",
                       "genres":  [
                                      "剧情片"
@@ -11429,7 +10707,7 @@
                       "tab":  1,
                       "title":  "他的",
                       "pic":  "https://image.jinyingimage.com/cover/8bd73194c02b67318fac72daddddf8b6.jpg",
-                      "rate":  "",
+                      "rate":  "6.7",
                       "year":  "2020",
                       "genres":  [
                                      "剧情片"
@@ -11510,7 +10788,7 @@
                       "tab":  1,
                       "title":  "懦夫",
                       "pic":  "https://image.jinyingimage.com/cover/737ce892784d975993302436e68fb4f1.jpg",
-                      "rate":  "",
+                      "rate":  "7.4",
                       "year":  "2026",
                       "genres":  [
                                      "战争片"
@@ -11888,7 +11166,7 @@
                       "tab":  1,
                       "title":  "阿姆鲁姆",
                       "pic":  "https://image.jinyingimage.com/cover/8b5c5f2c8ad5cd31cc06922362f7f03b.jpg",
-                      "rate":  "",
+                      "rate":  "7.1",
                       "year":  "2025",
                       "genres":  [
                                      "战争片"
@@ -11948,7 +11226,8 @@
                                      "战争片"
                                  ],
                       "countries":  [
-                                        "美国 / 塞尔维亚"
+                                        "美国",
+                                        "塞尔维亚"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -12029,7 +11308,9 @@
                                      "战争片"
                                  ],
                       "countries":  [
-                                        "乌兹别克斯坦 / 美国 / 哈萨克斯坦"
+                                        "乌兹别克斯坦",
+                                        "美国",
+                                        "哈萨克斯坦"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -12110,7 +11391,8 @@
                                      "战争片"
                                  ],
                       "countries":  [
-                                        "德国 / 波兰"
+                                        "德国",
+                                        "波兰"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -12191,7 +11473,9 @@
                                      "战争片"
                                  ],
                       "countries":  [
-                                        "瑞典 / 丹麦 / 比利时"
+                                        "瑞典",
+                                        "丹麦",
+                                        "比利时"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -13400,7 +12684,7 @@
                       "tab":  1,
                       "title":  "八仙",
                       "pic":  "https://image.jinyingimage.com/cover/4ec481c23798797136f8948ef0cbbaca.jpg",
-                      "rate":  "",
+                      "rate":  "8.3",
                       "year":  "2026",
                       "genres":  [
                                      "动画片"
@@ -13427,7 +12711,7 @@
                       "tab":  1,
                       "title":  "吉姆皇后",
                       "pic":  "https://image.jinyingimage.com/cover/ddbf0db43e412ec394daf6d61ef80043.jpg",
-                      "rate":  "",
+                      "rate":  "7.7",
                       "year":  "2026",
                       "genres":  [
                                      "动画片"
@@ -13595,7 +12879,8 @@
                                      "动画片"
                                  ],
                       "countries":  [
-                                        "美国 / 加拿大"
+                                        "美国",
+                                        "加拿大"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -13616,7 +12901,7 @@
                       "tab":  1,
                       "title":  "三国第一部：争洛阳",
                       "pic":  "https://image.jinyingimage.com/cover/92f6b2f7788573ff326cf2377c7d6159.jpg",
-                      "rate":  "",
+                      "rate":  "8.0",
                       "year":  "2026",
                       "genres":  [
                                      "动画片"
@@ -13643,7 +12928,7 @@
                       "tab":  1,
                       "title":  "魔法少女小圆：沃普尔吉斯的回天劇場版",
                       "pic":  "https://image.jinyingimage.com/cover/3109dd8dc44194832b1013bb0766c895.jpg",
-                      "rate":  "",
+                      "rate":  "6.5",
                       "year":  "2026",
                       "genres":  [
                                      "动画片"
@@ -13697,7 +12982,7 @@
                       "tab":  1,
                       "title":  "小猪佩奇·完美假期",
                       "pic":  "https://image.jinyingimage.com/cover/42181728e3610f726355dcefde438dbe.jpg",
-                      "rate":  "",
+                      "rate":  "6.2",
                       "year":  "2026",
                       "genres":  [
                                      "动画片"
@@ -13751,7 +13036,7 @@
                       "tab":  1,
                       "title":  "小黄人大眼萌2：神偷奶爸前传",
                       "pic":  "https://image.jinyingimage.com/cover/aa217a5a74b8b165db874931f806014c.jpg",
-                      "rate":  "",
+                      "rate":  "7.2",
                       "year":  "2022",
                       "genres":  [
                                      "动画片"
@@ -13832,7 +13117,7 @@
                       "tab":  1,
                       "title":  "熊出没·原始时代",
                       "pic":  "https://image.jinyingimage.com/cover/44e6b86aeefa3eca5832a98043a7b6fa.jpg",
-                      "rate":  "",
+                      "rate":  "6.6",
                       "year":  "2019",
                       "genres":  [
                                      "动画片"
@@ -13940,7 +13225,7 @@
                       "tab":  1,
                       "title":  "花绿青绽放之日",
                       "pic":  "https://image.jinyingimage.com/cover/8a730010fc3df148df84e975403e7faf.jpg",
-                      "rate":  "",
+                      "rate":  "6.0",
                       "year":  "2026",
                       "genres":  [
                                      "动画片"
@@ -14183,7 +13468,7 @@
                       "tab":  1,
                       "title":  "2平方米",
                       "pic":  "https://hongniuzyimage.com/cover/2b673b8b165a728efe4628bfaed50b9a.jpg",
-                      "rate":  "",
+                      "rate":  "6.5",
                       "year":  "2026",
                       "genres":  [
                                      "纪录片"
@@ -14561,7 +13846,7 @@
                       "tab":  1,
                       "title":  "隐者山河",
                       "pic":  "https://hongniuzyimage.com/cover/9f2c99c44cd97cafc21e47ad681e948f.jpg",
-                      "rate":  "",
+                      "rate":  "8.3",
                       "year":  "2024",
                       "genres":  [
                                      "纪录片"
@@ -14615,7 +13900,7 @@
                       "tab":  1,
                       "title":  "你能看到一切",
                       "pic":  "https://hongniuzyimage.com/cover/aefad0fac91a63c2f5abcd5180c7cab0.jpg",
-                      "rate":  "",
+                      "rate":  "9.0",
                       "year":  "2026",
                       "genres":  [
                                      "纪录片"
@@ -15047,7 +14332,7 @@
                       "tab":  1,
                       "title":  "别为往事懊恼",
                       "pic":  "https://hongniuzyimage.com/cover/ed0a89247c828bbf05a6506f4fa54745.jpg",
-                      "rate":  "",
+                      "rate":  "7.4",
                       "year":  "2026",
                       "genres":  [
                                      "纪录片"
@@ -15912,7 +15197,7 @@
                       "title":  "走马上任",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261102-1/13244db3043467b7119b22cceec83356.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "国产剧"
                                  ],
@@ -16155,7 +15440,7 @@
                       "title":  "火线家族",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260922-1/b472d95ecda33c5cd3609bf1897d092a.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "欧美剧"
                                  ],
@@ -16209,7 +15494,7 @@
                       "title":  "换母疑云",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261020-1/aadb68fcdb57b94fc6e7ca8a36ccec48.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "欧美剧"
                                  ],
@@ -16236,7 +15521,7 @@
                       "title":  "挖",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261124-1/5c8c5b8a4577e2e4464e9c7d6d3eebed.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "欧美剧"
                                  ],
@@ -16425,7 +15710,7 @@
                       "title":  "女巫农场",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261122-1/38955d7f20844d31676c89d3781a7ad0.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "欧美剧"
                                  ],
@@ -16452,12 +15737,13 @@
                       "title":  "蜜谍",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261115-1/bc2a61ddd473578d3d01bcaa7d9ad988.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "欧美剧"
                                  ],
                       "countries":  [
-                                        "英国,德国"
+                                        "英国",
+                                        "德国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -16565,7 +15851,8 @@
                                      "欧美剧"
                                  ],
                       "countries":  [
-                                        "澳大利亚,英国"
+                                        "澳大利亚",
+                                        "英国"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -16776,7 +16063,7 @@
                       "title":  "永属于你",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261017-1/c2ceedc7d747b9fdc3ad168659af5a45.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "欧美剧"
                                  ],
@@ -16884,7 +16171,7 @@
                       "title":  "反恐特警组：放逐者",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260926-1/a5c688283b9514d4664cdc588e394aaf.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "欧美剧"
                                  ],
@@ -16911,7 +16198,7 @@
                       "title":  "库比蒂诺",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261011-1/1760beec9359eb260eeed5f09c2f9fdf.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "欧美剧"
                                  ],
@@ -16965,7 +16252,7 @@
                       "title":  "雅嘎疑云",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261023-1/c07379c90128dabd38c5bad9c998a9c1.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "欧美剧"
                                  ],
@@ -17073,7 +16360,7 @@
                       "title":  "12 12 12",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261113-1/f0fb211ca81da22d8fd446ef1d3788f0.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "欧美剧"
                                  ],
@@ -17289,7 +16576,7 @@
                       "title":  "我的有罪之人",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261019-1/000dbb0e21f0163ebf1bd51c063b1711.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "韩国剧"
                                  ],
@@ -17559,12 +16846,13 @@
                       "title":  "罪蓝之路",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261120-1/d4fb283241d4f5d2f913c1ca68493457.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "韩国剧"
                                  ],
                       "countries":  [
-                                        "韩国,日本"
+                                        "韩国",
+                                        "日本"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -17667,7 +16955,7 @@
                       "title":  "爱上草莓的季节",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261007-1/12e49977a4a917da50d49d19fc6bf0c8.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "韩国剧"
                                  ],
@@ -17694,7 +16982,7 @@
                       "title":  "再婚皇后",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261103-1/812e9feb8f443836da050e223cbaa212.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "韩国剧"
                                  ],
@@ -17721,12 +17009,14 @@
                       "title":  "绑架游戏2026",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261006-1/9a26115e77fc79c6f929da5708886c60.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "韩国剧"
                                  ],
                       "countries":  [
-                                        "日本,韩国,中国香港"
+                                        "日本",
+                                        "韩国",
+                                        "中国香港"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -18468,33 +17758,6 @@
                                       "flag":  "line0",
                                       "idx":  0,
                                       "media":  7
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-72966",
-                      "tab":  2,
-                      "title":  "丰臣兄弟！",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20260104-1/e496fc30e84c937b764a8ac535890001.jpg",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "日本剧"
-                                 ],
-                      "countries":  [
-                                        "日本"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "72966",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  45
                                   }
                               ]
                   },
@@ -19265,7 +18528,8 @@
                                      "香港剧"
                                  ],
                       "countries":  [
-                                        "中国香港,中国大陆"
+                                        "中国香港",
+                                        "中国大陆"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -19292,7 +18556,8 @@
                                      "香港剧"
                                  ],
                       "countries":  [
-                                        "中国香港,中国大陆"
+                                        "中国香港",
+                                        "中国大陆"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -19319,7 +18584,8 @@
                                      "香港剧"
                                  ],
                       "countries":  [
-                                        "中国香港,中国大陆"
+                                        "中国香港",
+                                        "中国大陆"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -19346,7 +18612,8 @@
                                      "香港剧"
                                  ],
                       "countries":  [
-                                        "中国香港,中国大陆"
+                                        "中国香港",
+                                        "中国大陆"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -19454,7 +18721,8 @@
                                      "香港剧"
                                  ],
                       "countries":  [
-                                        "中国香港,中国澳门"
+                                        "中国香港",
+                                        "中国澳门"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -19535,7 +18803,8 @@
                                      "香港剧"
                                  ],
                       "countries":  [
-                                        "中国香港,中国大陆"
+                                        "中国香港",
+                                        "中国大陆"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -19562,7 +18831,8 @@
                                      "香港剧"
                                  ],
                       "countries":  [
-                                        "中国香港,中国大陆"
+                                        "中国香港",
+                                        "中国大陆"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -19665,7 +18935,7 @@
                       "title":  "度假季",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260617-1/d20e857ed6b3d03333bad3d726f7775c.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "香港剧"
                                  ],
@@ -19805,7 +19075,8 @@
                                      "香港剧"
                                  ],
                       "countries":  [
-                                        "中国大陆,中国香港"
+                                        "中国大陆",
+                                        "中国香港"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -19832,7 +19103,8 @@
                                      "香港剧"
                                  ],
                       "countries":  [
-                                        "中国大陆,中国香港"
+                                        "中国大陆",
+                                        "中国香港"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -19859,7 +19131,8 @@
                                      "香港剧"
                                  ],
                       "countries":  [
-                                        "中国香港,中国大陆"
+                                        "中国香港",
+                                        "中国大陆"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -19886,7 +19159,8 @@
                                      "香港剧"
                                  ],
                       "countries":  [
-                                        "中国香港,中国大陆"
+                                        "中国香港",
+                                        "中国大陆"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -20011,222 +19285,6 @@
                               ]
                   },
                   {
-                      "id":  "cms2-67590",
-                      "tab":  2,
-                      "title":  "新闻女王2粤语",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251105-1/0393d41b6fae39a18a5f703d77572ce1.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "香港剧"
-                                 ],
-                      "countries":  [
-                                        "中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "67590",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  25
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-67589",
-                      "tab":  2,
-                      "title":  "新闻女王2国语",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251105-1/98405709ec66b355ebe87226db01f05d.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "香港剧"
-                                 ],
-                      "countries":  [
-                                        "中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "67589",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  25
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-64287",
-                      "tab":  2,
-                      "title":  "绝命法官粤语",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250928-1/001378cb984ef337cbb2e33feb213e36.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "香港剧"
-                                 ],
-                      "countries":  [
-                                        "中国大陆,中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "64287",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  20
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-64286",
-                      "tab":  2,
-                      "title":  "绝命法官国语",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250928-1/6f1827dfaeba21cb1c126b44ba013346.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "香港剧"
-                                 ],
-                      "countries":  [
-                                        "中国大陆,中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "64286",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  20
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-63540",
-                      "tab":  2,
-                      "title":  "金式森林粤语",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250917-1/1f6728c771a16a4ecc5a257c541d5cda.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "香港剧"
-                                 ],
-                      "countries":  [
-                                        "中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "63540",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  25
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-63539",
-                      "tab":  2,
-                      "title":  "金式森林国语",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250917-1/8b06a172e27ffee945a7933c37deeff6.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "香港剧"
-                                 ],
-                      "countries":  [
-                                        "中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "63539",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  24
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-62242",
-                      "tab":  2,
-                      "title":  "侠医粤语",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250901-1/6f3a6103a412821a9f790d835422b1fe.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "香港剧"
-                                 ],
-                      "countries":  [
-                                        "中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "62242",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  20
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-74206",
-                      "tab":  2,
-                      "title":  "豆腐妈妈",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20260118-1/c0728b5e3df3a9e9491eb46f7c0b334a.webp",
-                      "rate":  "",
-                      "year":  "20259",
-                      "genres":  [
-                                     "台湾剧"
-                                 ],
-                      "countries":  [
-                                        "泰国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "74206",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  239
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms2-91399",
                       "tab":  2,
                       "title":  "针线缘",
@@ -20250,33 +19308,6 @@
                                       "flag":  "line0",
                                       "idx":  0,
                                       "media":  75
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-74204",
-                      "tab":  2,
-                      "title":  "宝岛西米乐",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20260118-1/5a83fdd604f84f8361259037f3108cc4.webp",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "台湾剧"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "74204",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  379
                                   }
                               ]
                   },
@@ -20313,7 +19344,7 @@
                       "title":  "急诊室的奇迹",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261112-1/c45bc35dc7d22408332fce6121bc5302.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "台湾剧"
                                  ],
@@ -20448,7 +19479,7 @@
                       "title":  "整个世界，只有你连上了我",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260814-1/88477eb01b6eac8211871196669c44dd.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "台湾剧"
                                  ],
@@ -20502,7 +19533,7 @@
                       "title":  "黑白清道夫",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260917-1/2110246552d0794d01498510dcb4e098.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "台湾剧"
                                  ],
@@ -20556,7 +19587,7 @@
                       "title":  "聪明镇",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260728-1/3db762a3605be79c42d85d849ea20905.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "台湾剧"
                                  ],
@@ -20610,7 +19641,7 @@
                       "title":  "欠你的那场婚礼",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260621-1/d334529f40ae0823b043a8452785b524.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "台湾剧"
                                  ],
@@ -20740,33 +19771,6 @@
                               ]
                   },
                   {
-                      "id":  "cms2-73600",
-                      "tab":  2,
-                      "title":  "人生只租不卖",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20260111-1/61b9c7c115d3dac095faf36de0d99b08.jpg",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "台湾剧"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "73600",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  12
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms2-74083",
                       "tab":  2,
                       "title":  "凶宅专卖店",
@@ -20821,114 +19825,6 @@
                               ]
                   },
                   {
-                      "id":  "cms2-76484",
-                      "tab":  2,
-                      "title":  "百万人推理",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20260212-1/64f629624435ef83c81cd998d6c73b5f.jpg",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "台湾剧"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "76484",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  8
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-72974",
-                      "tab":  2,
-                      "title":  "何百芮的地狱毒白第二季",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20260104-1/46dba11df37c5dd1ac78175cd088ad05.jpg",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "台湾剧"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "72974",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  12
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-70698",
-                      "tab":  2,
-                      "title":  "整形过后",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251214-1/b327337dcd0d36e00cca4219c7aa5422.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "台湾剧"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "70698",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  10
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-66031",
-                      "tab":  2,
-                      "title":  "旧金山美容院",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251019-1/3fe0eac4f59faa02e010ad9df555986e.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "台湾剧"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "66031",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  24
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms2-47168",
                       "tab":  2,
                       "title":  "好运来",
@@ -20956,60 +19852,6 @@
                               ]
                   },
                   {
-                      "id":  "cms2-68486",
-                      "tab":  2,
-                      "title":  "监所男子囚生记",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251115-1/3327b459301cf911b820b26ee05982ab.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "台湾剧"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "68486",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  12
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-70488",
-                      "tab":  2,
-                      "title":  "如果我不曾见过太阳第二季",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251211-1/a358ed233d2d1ada3ad7255f35d00ec4.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "台湾剧"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "70488",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  10
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms2-66646",
                       "tab":  2,
                       "title":  "人浮于爱",
@@ -21033,114 +19875,6 @@
                                       "flag":  "line0",
                                       "idx":  0,
                                       "media":  14
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-67232",
-                      "tab":  2,
-                      "title":  "黑盒子",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251031-1/0577edc6966dadc19ee201354ef3d83d.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "台湾剧"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "67232",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  12
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-67416",
-                      "tab":  2,
-                      "title":  "看看你有多爱我",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251102-1/447dd61cace8d921e05258a84192390b.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "台湾剧"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "67416",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  5
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-68308",
-                      "tab":  2,
-                      "title":  "如果我不曾见过太阳",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251113-1/586d067c9c1c54e915c38930d55e31d5.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "台湾剧"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "68308",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  10
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-62725",
-                      "tab":  2,
-                      "title":  "师大公园地下社会",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250908-1/1afb6ee7ef9a853749ba7dc6d0988162.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "台湾剧"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "62725",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  11
                                   }
                               ]
                   },
@@ -21204,7 +19938,7 @@
                       "title":  "枪鸣情起",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261124-1/0a74869acc98b9e647b0320b18e7b21d.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "泰国剧"
                                  ],
@@ -21339,7 +20073,7 @@
                       "title":  "好男孩",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261101-1/46017eba36b574c0bf92279ec4fa1b7b.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "泰国剧"
                                  ],
@@ -21452,7 +20186,8 @@
                                      "泰国剧"
                                  ],
                       "countries":  [
-                                        "泰国,中国大陆"
+                                        "泰国",
+                                        "中国大陆"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -21474,7 +20209,7 @@
                       "title":  "氧毒素：耀眼的星",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261107-1/b06ca4cfeb555406b60b07fe23d92761.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "泰国剧"
                                  ],
@@ -21582,7 +20317,7 @@
                       "title":  "乌鸦俱乐部",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260919-1/f5bc7d886bfcaa0456705b3f5e8954a0.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "泰国剧"
                                  ],
@@ -21636,7 +20371,7 @@
                       "title":  "神秘的声音",
                       "pic":  "https://www.mdzypic.com/upload/vod/20260919-1/6da6cbfde4321a66d84ceae47b00e418.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "泰国剧"
                                  ],
@@ -21663,7 +20398,7 @@
                       "title":  "黑帮恋事多",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261031-1/6f6bbe220dd2eabacddd1f9ec2119011.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "泰国剧"
                                  ],
@@ -21771,7 +20506,7 @@
                       "title":  "步步惊心(泰国版)",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261104-1/71826e8aa02961cac5b6fad1f4ce76a0.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "泰国剧"
                                  ],
@@ -21852,7 +20587,7 @@
                       "title":  "筑爱于心",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261021-1/e7288258e127f64c7bcd47834a81d67c.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "泰国剧"
                                  ],
@@ -22041,7 +20776,7 @@
                       "title":  "亲爱的警督",
                       "pic":  "https://www.mdzypic.com/upload/vod/20261107-1/07a8aac6473c24f895c9b4fd129af549.webp",
                       "rate":  "",
-                      "year":  "2026–",
+                      "year":  "2026",
                       "genres":  [
                                      "泰国剧"
                                  ],
@@ -22202,7 +20937,7 @@
                       "tab":  2,
                       "title":  "甲虫村",
                       "pic":  "https://image.jinyingimage.com/cover/f9f08c9ef73765081a25b4e044ba3b13.jpg",
-                      "rate":  "",
+                      "rate":  "8.9",
                       "year":  "2019",
                       "genres":  [
                                      "欧美剧"
@@ -22472,7 +21207,7 @@
                       "tab":  2,
                       "title":  "第11号站",
                       "pic":  "https://image.jinyingimage.com/cover/99c4d5b8b7272a7d15ac422fba62bddf.jpg",
-                      "rate":  "",
+                      "rate":  "7.1",
                       "year":  "2021",
                       "genres":  [
                                      "欧美剧"
@@ -22634,7 +21369,7 @@
                       "tab":  2,
                       "title":  "杀手粤语",
                       "pic":  "https://image.jinyingimage.com/cover/2cd53de4b464155d7881d78b935b1624.jpg",
-                      "rate":  "",
+                      "rate":  "7.1",
                       "year":  "2020",
                       "genres":  [
                                      "香港剧"
@@ -22748,7 +21483,8 @@
                                      "香港剧"
                                  ],
                       "countries":  [
-                                        "中国香港 / 中国大陆"
+                                        "中国香港",
+                                        "中国大陆"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -22775,7 +21511,8 @@
                                      "香港剧"
                                  ],
                       "countries":  [
-                                        "中国香港 / 中国大陆"
+                                        "中国香港",
+                                        "中国大陆"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -22883,7 +21620,8 @@
                                      "香港剧"
                                  ],
                       "countries":  [
-                                        "中国香港 / 中国大陆"
+                                        "中国香港",
+                                        "中国大陆"
                                     ],
                       "votes":  0,
                       "eps":  0,
@@ -23957,7 +22695,7 @@
                       "tab":  3,
                       "title":  "你好星期六",
                       "pic":  "https://www.mdzypic.com/upload/vod/20240623-1/35074c5ac306f7f30ccb798e8272140f.jpg",
-                      "rate":  "",
+                      "rate":  "6.1",
                       "year":  "2022",
                       "genres":  [
                                      "大陆综艺"
@@ -24138,33 +22876,6 @@
                                       "flag":  "line0",
                                       "idx":  0,
                                       "media":  57
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms3-70147",
-                      "tab":  3,
-                      "title":  "笑有新生",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251207-1/55b4ce17acb98d9054fa8a703f4191dc.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "大陆综艺"
-                                 ],
-                      "countries":  [
-                                        "中国大陆"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "70147",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  22
                                   }
                               ]
                   },
@@ -24551,7 +23262,7 @@
                       "tab":  3,
                       "title":  "两天一夜第四季",
                       "pic":  "https://www.mdzypic.com/upload/vod/20240625-1/bae435e51ff3b53d3dfd5619c3ec7273.jpg",
-                      "rate":  "",
+                      "rate":  "9.1",
                       "year":  "2019",
                       "genres":  [
                                      "日韩综艺"
@@ -24597,33 +23308,6 @@
                                       "flag":  "line0",
                                       "idx":  0,
                                       "media":  5
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms3-9748",
-                      "tab":  3,
-                      "title":  "闲着干嘛呢？",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20240628-1/001615d5764c7511f44b0fa0572125a4.jpg",
-                      "rate":  "",
-                      "year":  "2019",
-                      "genres":  [
-                                     "日韩综艺"
-                                 ],
-                      "countries":  [
-                                        "韩国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "9748",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  137
                                   }
                               ]
                   },
@@ -24686,7 +23370,7 @@
                       "tab":  3,
                       "title":  "我独自生活",
                       "pic":  "https://www.mdzypic.com/upload/vod/20240628-1/e1e99e05a2270d6ef445a5ac030c8795.jpg",
-                      "rate":  "",
+                      "rate":  "8.8",
                       "year":  "2023",
                       "genres":  [
                                      "日韩综艺"
@@ -25195,38 +23879,11 @@
                               ]
                   },
                   {
-                      "id":  "cms3-8800",
-                      "tab":  3,
-                      "title":  "全民星攻略",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20240614-1/4f527a9700ef40cc0d7c3ffb56386eb6.jpg",
-                      "rate":  "",
-                      "year":  "2020",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "8800",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  591
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms3-8763",
                       "tab":  3,
                       "title":  "11点热吵店",
                       "pic":  "https://www.mdzypic.com/upload/vod/20240614-1/be071926638e63f1e703b05f97bb595c.jpg",
-                      "rate":  "",
+                      "rate":  "7.6",
                       "year":  "2020",
                       "genres":  [
                                      "港台综艺"
@@ -25253,7 +23910,7 @@
                       "tab":  3,
                       "title":  "小姐不熙娣",
                       "pic":  "https://www.mdzypic.com/upload/vod/20240614-1/862f492e7ceaa63a8e6d9017501d0400.jpg",
-                      "rate":  "",
+                      "rate":  "7.6",
                       "year":  "2022",
                       "genres":  [
                                      "港台综艺"
@@ -25357,33 +24014,6 @@
                               ]
                   },
                   {
-                      "id":  "cms3-50651",
-                      "tab":  3,
-                      "title":  "郊廉出发吧！",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250209-1/30e9a7f54d7f6e6dd0f2b2a30634116e.jpg",
-                      "rate":  "",
-                      "year":  "2023",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "50651",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  190
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms3-91558",
                       "tab":  3,
                       "title":  "美食强人",
@@ -25461,60 +24091,6 @@
                                       "flag":  "line0",
                                       "idx":  0,
                                       "media":  15
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms3-69682",
-                      "tab":  3,
-                      "title":  "中年好声音4",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251202-1/b2dc474ff0316daae7b765f0f9ae8eb2.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "69682",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  39
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms3-71105",
-                      "tab":  3,
-                      "title":  "一周星星",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251218-1/02c84b745a4b5608d49e31d0df157b71.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "71105",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  35
                                   }
                               ]
                   },
@@ -25708,60 +24284,6 @@
                               ]
                   },
                   {
-                      "id":  "cms3-8811",
-                      "tab":  3,
-                      "title":  "挑战吧大神",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20240614-1/94bcc5fa471292cdb7eecdecde669bc2.jpg",
-                      "rate":  "",
-                      "year":  "2019",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "8811",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  264
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms3-72113",
-                      "tab":  3,
-                      "title":  "塔斯曼尼亞潮什麼",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251226-1/a0159b41be0f94e1ceba7dcca4d5d817.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "72113",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  6
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms3-77704",
                       "tab":  3,
                       "title":  "6人行不行",
@@ -25785,303 +24307,6 @@
                                       "flag":  "line0",
                                       "idx":  0,
                                       "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms3-69681",
-                      "tab":  3,
-                      "title":  "无穷之路5：智行无疆",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251202-1/31147dbb840cffb9d422a7d2f00ae091.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "69681",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  10
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms3-73966",
-                      "tab":  3,
-                      "title":  "冲游泰国11",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20260115-1/852b20a13e7194452181136ae0e03975.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "73966",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  12
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms3-73964",
-                      "tab":  3,
-                      "title":  "寻欢作乐的姐姐",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20260115-1/4f9e226ee3e803ec64d5d278c0b4c512.jpg",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "73964",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  11
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms3-59782",
-                      "tab":  3,
-                      "title":  "出去一下 What A Trip",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250721-1/d0cbdf6bd266f9a7a50bba19deac9423.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "59782",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  26
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms3-72112",
-                      "tab":  3,
-                      "title":  "声秀",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251226-1/8a00b0a77d6bb5ab97d6aa5bb100fdf9.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "72112",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  15
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms3-71647",
-                      "tab":  3,
-                      "title":  "玩转桂林懒人包2025",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251222-1/9777624516da50f08ab700cd50197533.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "71647",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  5
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms3-71646",
-                      "tab":  3,
-                      "title":  "空运世一",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251222-1/24a864150baca63b17777f24e4602888.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "71646",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  3
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms3-71645",
-                      "tab":  3,
-                      "title":  "剪裁魔法师2",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251222-1/9b2d773f09495014f013c491d3dbb2d1.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "71645",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  5
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms3-69279",
-                      "tab":  3,
-                      "title":  "芷珊再约王嘉尔",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20251126-1/78b690c0f597b90b50b8ffec69c55122.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "69279",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  2
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms3-8777",
-                      "tab":  3,
-                      "title":  "单身行不行",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20240614-1/dbbd5967baf3e8e0a26eaaa8a8c2b2a6.jpg",
-                      "rate":  "",
-                      "year":  "2020",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "8777",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  280
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms3-58029",
-                      "tab":  3,
-                      "title":  "女神配对计划",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250624-1/1a56ff063661fa20d6c49c4bd0ca6749.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国香港"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "58029",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  19
                                   }
                               ]
                   },
@@ -26387,7 +24612,7 @@
                       "tab":  3,
                       "title":  "你好，星期六 2022",
                       "pic":  "https://image.jinyingimage.com/cover/f9cb3124b5a22b133f21273ef2cb0695.jpg",
-                      "rate":  "",
+                      "rate":  "6.8",
                       "year":  "2022",
                       "genres":  [
                                      "大陆综艺"
@@ -26549,7 +24774,7 @@
                       "tab":  3,
                       "title":  "周一开始便熬夜 2025",
                       "pic":  "https://image.jinyingimage.com/cover/5ccb7389cb4410b32053f241def4a9af.jpg",
-                      "rate":  "",
+                      "rate":  "9.6",
                       "year":  "2025",
                       "genres":  [
                                      "日韩综艺"
@@ -26819,7 +25044,7 @@
                       "tab":  3,
                       "title":  "环环相扣的老故事第一季",
                       "pic":  "https://image.jinyingimage.com/cover/be8db1c59541c1462c935870f5bfeed5.jpg",
-                      "rate":  "",
+                      "rate":  "9.3",
                       "year":  "2020",
                       "genres":  [
                                      "日韩综艺"
@@ -26954,7 +25179,7 @@
                       "tab":  3,
                       "title":  "小姐不熙娣2026",
                       "pic":  "https://image.jinyingimage.com/cover/d029847ab0189f1a6c570f1d37ccb6cb.jpg",
-                      "rate":  "",
+                      "rate":  "7.6",
                       "year":  "2022",
                       "genres":  [
                                      "港台综艺"
@@ -27467,7 +25692,7 @@
                       "tab":  3,
                       "title":  "来吧！营业中",
                       "pic":  "https://image.jinyingimage.com/cover/7aee0f6d588ed9905ee37f16a7c610d4.jpg",
-                      "rate":  "",
+                      "rate":  "8.4",
                       "year":  "2022",
                       "genres":  [
                                      "港台综艺"
@@ -27864,33 +26089,6 @@
                                       "flag":  "line1",
                                       "idx":  0,
                                       "media":  3
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms3-153898",
-                      "tab":  3,
-                      "title":  "熙娣想聊",
-                      "pic":  "https://hongniuzyimage.com/cover/121f6f951ebe28c187c975e6c17c081d.jpg",
-                      "rate":  "",
-                      "year":  "2021",
-                      "genres":  [
-                                     "港台综艺"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "红牛资源",
-                                      "api":  "https://www.hongniuzy2.com/api.php/provide/vod/",
-                                      "vid":  "153898",
-                                      "flag":  "line1",
-                                      "idx":  0,
-                                      "media":  10
                                   }
                               ]
                   }
