@@ -1,5 +1,5 @@
 {
-    "spider":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt",
+    "spider":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt",
     "wallpaper":  "https://动态壁纸.饭.eu.org/",
     "sites":  [
                   {
@@ -11,7 +11,7 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "MDrive",
@@ -27,7 +27,7 @@
                       "ext":  {
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "玩偶",
@@ -41,7 +41,7 @@
                       "ext":  {
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "YGP",
@@ -51,7 +51,7 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "alllive",
@@ -68,7 +68,7 @@
                       "quickSearch":  0,
                       "changeable":  0,
                       "ext":  "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8=",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "MTV1",
@@ -83,7 +83,7 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "爱刷",
@@ -100,7 +100,7 @@
                       "ext":  {
 
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "seed",
@@ -112,7 +112,7 @@
                       "quickSearch":  1,
                       "changeable":  0,
                       "indexs":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "粤迷",
@@ -123,7 +123,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "韩剧",
@@ -134,7 +134,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "光影",
@@ -145,7 +145,7 @@
                       "quickSearch":  1,
                       "changeable":  0,
                       "ext":  "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw==",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "厂长",
@@ -157,7 +157,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "立播",
@@ -172,7 +172,7 @@
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt",
                                   "siteUrl":  "https://www.libvio.pw/"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "瓜子",
@@ -183,7 +183,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "比特",
@@ -194,7 +194,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "花生",
@@ -208,7 +208,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "糯米",
@@ -219,7 +219,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "文采",
@@ -231,7 +231,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "奶酪",
@@ -242,7 +242,7 @@
                       "quickSearch":  1,
                       "changeable":  0,
                       "ext":  "rfOIzPkSUkANv6AT2prC8en3+Trbx4jq3i8iepe3AAlFJlcJ8nEyo7U0Zv5Ly99uvDeRbsAQwngm4DhwCew4GZ2NpO2FWja5GbiLw/2+VyOxmwVkfRMWv532AlCkEM0DUsYlqgFBirI7micJVqtVVd5RVO+OjoFt49RYjdpcwCGzZNf2zleAXOBerYWUBBYiHAcv4i9IkhbqtQRBgq93D8T/VUpyZg15mh4icjAzq6HJ3fKftkmNq95YguHZLzKbGEDahyxvIgNARifYJxRobH3iyvXchGcLgar0MU56i0oTeFRc6ThjWvJdYRkG14ULZ/+nBcQncXy23jGsvADOGlYoPtpPQAOccjnT9Q0UrQssrFfhyMAynhd5nlPX67OibRK1YBs1pV05B3ICXao4njVgOB+AbpZJjwAw7tkjLocnQhq0w5RxREH/1j8YpssxtJO1ADlPtR7A3GILhxMcEc1KgJy+LBzmZL7G+vYG3T++qkSKO6V2QFdgRLTCpSHJ",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "剧迷",
@@ -253,7 +253,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "热播",
@@ -265,7 +265,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "ext":  "uqGL1bNENExT7/hGxpSE5qU=",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "风云",
@@ -279,7 +279,7 @@
                       "quickSearch":  1,
                       "searchable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "荐片",
@@ -290,7 +290,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "奥特",
@@ -301,7 +301,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "新6V",
@@ -313,7 +313,7 @@
                       "quickSearch":  1,
                       "changeable":  0,
                       "ext":  "https://www.xb6v.com/",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "AiDj",
@@ -329,7 +329,7 @@
                       "quickSearch":  1,
                       "searchable":  1,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "Dm84",
@@ -340,7 +340,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "看球",
@@ -353,7 +353,7 @@
                       "style":  {
                                     "type":  "list"
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "多多",
@@ -366,7 +366,7 @@
                       "style":  {
                                     "type":  "list"
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "吃瓜",
@@ -379,7 +379,7 @@
                       "style":  {
                                     "type":  "list"
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "MTV",
@@ -396,7 +396,7 @@
                       "ext":  {
                                   "json":  "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "有声小说",
@@ -410,7 +410,7 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "Aid",
@@ -424,7 +424,7 @@
                                     "type":  "rect",
                                     "ratio":  3.8
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "虎牙js",
@@ -441,7 +441,7 @@
                       "searchable":  1,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "斗鱼js",
@@ -458,7 +458,7 @@
                       "searchable":  1,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "ZPan",
@@ -475,7 +475,7 @@
                       "style":  {
                                     "type":  "list"
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "JPan",
@@ -492,7 +492,7 @@
                       "style":  {
                                     "type":  "list"
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "YpanSo",
@@ -505,7 +505,7 @@
                       "ext":  {
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "BpanSo",
@@ -518,7 +518,7 @@
                       "ext":  {
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "抠搜",
@@ -531,7 +531,7 @@
                       "ext":  {
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "UC",
@@ -544,7 +544,7 @@
                       "ext":  {
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "Bili",
@@ -561,7 +561,7 @@
                       "ext":  {
                                   "json":  "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "Biliych",
@@ -578,7 +578,7 @@
                       "ext":  {
                                   "json":  "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "dr_兔小贝",
@@ -593,7 +593,7 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "少儿教育",
@@ -610,7 +610,7 @@
                       "ext":  {
                                   "json":  "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "小学课堂",
@@ -627,7 +627,7 @@
                       "ext":  {
                                   "json":  "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "初中课堂",
@@ -644,7 +644,7 @@
                       "ext":  {
                                   "json":  "https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "高中教育",
@@ -661,7 +661,7 @@
                       "ext":  {
                                   "json":  "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "push_agent",
@@ -673,7 +673,7 @@
                       "ext":  {
                                   "Cloud-drive":  "tvfan/Cloud-drive.txt"
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   },
                   {
                       "key":  "cc",
@@ -683,7 +683,7 @@
                       "searchable":  1,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
                   }
               ],
     "parses":  [

@@ -11,9 +11,9 @@
 
 ## App 读取地址
 
-- 清单：https://gitee.com/lebond/maomaoyu/raw/master/catalog.json
-- 配置：https://gitee.com/lebond/maomaoyu/raw/master/sources/<id>.json
-- jar：https://gitee.com/lebond/maomaoyu/raw/master/jars/<name>
+- 清单：https://raw.githubusercontent.com/lebond2021/maomaoyu/master/catalog.json
+- 配置：https://raw.githubusercontent.com/lebond2021/maomaoyu/master/sources/<id>.json
+- jar：https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/<name>
 - 版本：`dist` 分支 https://gitee.com/lebond/maomaoyu/raw/dist/version.json
 
 ## 接口源列表

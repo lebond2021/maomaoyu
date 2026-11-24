@@ -1,5 +1,5 @@
 {
-    "spider":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar",
+    "spider":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar",
     "wallpaper":  "https://wallpaper-1tg.pages.dev/",
     "sites":  [
                   {
@@ -11,7 +11,7 @@
                       "searchable":  0,
                       "changeable":  1,
                       "ext":  "./json/douban.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_磁力熊搜索",
@@ -23,7 +23,7 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "csp_YGP",
@@ -33,7 +33,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "csp_Bili",
@@ -52,7 +52,7 @@
                                   "json":  "./json/bili.json",
                                   "cookie":  ""
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Youtube",
@@ -75,7 +75,7 @@
                                     "type":  "rect",
                                     "ratio":  1.77
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "FirstAid",
@@ -89,7 +89,7 @@
                                     "type":  "rect",
                                     "ratio":  3.8
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "lf_js_lf_live",
@@ -104,7 +104,7 @@
                       "quickSearch":  1,
                       "filterable":  1,
                       "ext":  "./js/lf_live.txt",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "TGYunPanLocal",
@@ -122,7 +122,7 @@
                                   "proxy":  "proxy",
                                   "danmu":  true
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "TGYunPan",
@@ -140,7 +140,7 @@
                                   "proxy":  "noproxy",
                                   "danmu":  true
                               },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Local",
@@ -152,7 +152,7 @@
                       "filterable":  1,
                       "timeout":  60,
                       "ext":  "null$$$null$$$1",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "看球",
@@ -164,7 +164,7 @@
                       "style":  {
                                     "type":  "list"
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "88js",
@@ -178,7 +178,7 @@
                       "searchable":  0,
                       "quickSearch":  0,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_310直播",
@@ -190,7 +190,7 @@
                                     "type":  "list"
                                 },
                       "ext":  "./js/310直播.js",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "csp_XPath_企鹅体育",
@@ -205,7 +205,7 @@
                       "quickSearch":  0,
                       "changeable":  0,
                       "ext":  "./json/企鹅直播.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "酷狗",
@@ -214,7 +214,7 @@
                       "api":  "csp_Kugou",
                       "searchable":  1,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Iktv",
@@ -223,7 +223,7 @@
                       "api":  "csp_Iktv",
                       "searchable":  1,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Yinyuetai",
@@ -232,7 +232,7 @@
                       "api":  "csp_Yinyuetai",
                       "searchable":  1,
                       "changeable":  0,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "配置中心",
@@ -246,7 +246,7 @@
                                     "ratio":  1.5
                                 },
                       "ext":  "./lib/token.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "PushShare",
@@ -262,7 +262,7 @@
                       "style":  {
                                     "type":  "list"
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "PikPakShare",
@@ -275,7 +275,7 @@
                       "filterable":  0,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$./json/pikpakclass.json$$$./json/pikpakclass.json.db.gz",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "AliShare",
@@ -288,7 +288,7 @@
                       "filterable":  0,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$./json/alishare.txt$$$db$$$1",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "AliShareEBook",
@@ -304,7 +304,7 @@
                       "style":  {
                                     "type":  "list"
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "ThunderShare",
@@ -317,7 +317,7 @@
                       "filterable":  0,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$./json/thundershare.txt",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "QuarkShare",
@@ -330,7 +330,7 @@
                       "filterable":  0,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$./json/quarkshare.txt",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "115Share",
@@ -347,7 +347,7 @@
                                     "type":  "list",
                                     "ratio":  1.1
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "UCShare",
@@ -364,7 +364,7 @@
                                     "type":  "list",
                                     "ratio":  1.1
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "SambaShare",
@@ -377,7 +377,7 @@
                       "filterable":  0,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$./json/sambashare.txt",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "追剧",
@@ -386,7 +386,7 @@
                       "api":  "csp_TTian",
                       "playerType":  1,
                       "ext":  "http://app.kzjtv.com$$$null$$$1",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "天天",
@@ -395,7 +395,7 @@
                       "api":  "csp_TTian",
                       "playerType":  1,
                       "ext":  "http://op.ysdqjs.cn$$$null$$$1",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "NanGua",
@@ -405,7 +405,7 @@
                       "searchable":  1,
                       "changeable":  1,
                       "ext":  "null$$$1",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Bdys_spider",
@@ -417,7 +417,7 @@
                       "searchable":  1,
                       "ext":  "./lib/token.json$$$https://www.yjys01.com/$$$null$$$1",
                       "timeout":  60,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "荐片弹幕版",
@@ -429,7 +429,7 @@
                       "filterable":  1,
                       "ext":  "./json/jianpian.json$$$1",
                       "timeout":  60,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Bt0",
@@ -441,7 +441,7 @@
                       "filterable":  1,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$null$$$proxy$$$1",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Ikanbot",
@@ -453,7 +453,7 @@
                       "filterable":  1,
                       "changeable":  1,
                       "ext":  "https://v.ikanbot.com$$$proxy",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "csp_Xunlei8",
@@ -465,7 +465,7 @@
                       "quickSearch":  1,
                       "filterable":  1,
                       "timeout":  60,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "MeijuTT",
@@ -475,7 +475,7 @@
                       "playerType":  "1",
                       "changeable":  0,
                       "timeout":  60,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "SeedHub",
@@ -485,7 +485,7 @@
                       "playerType":  "1",
                       "changeable":  0,
                       "timeout":  60,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Mayiys",
@@ -496,7 +496,7 @@
                       "quickSearch":  1,
                       "filterable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "csp_Kuaikan",
@@ -506,7 +506,7 @@
                       "searchable":  1,
                       "quickSearch":  1,
                       "filterable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "泥巴",
@@ -515,7 +515,7 @@
                       "api":  "csp_NiNi",
                       "searchable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "星星",
@@ -524,7 +524,7 @@
                       "api":  "csp_Star",
                       "searchable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "影视",
@@ -533,7 +533,7 @@
                       "api":  "csp_YingShi",
                       "searchable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "櫻花",
@@ -542,7 +542,7 @@
                       "api":  "csp_Ying",
                       "searchable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "巴士",
@@ -551,7 +551,7 @@
                       "api":  "csp_Dm84",
                       "searchable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "獨播",
@@ -561,7 +561,7 @@
                       "searchable":  1,
                       "changeable":  0,
                       "ext":  "./json/duboku.json$$$socks5://127.0.0.1:10172",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Wogg",
@@ -573,7 +573,7 @@
                       "filterable":  1,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./json/wogg.json$$$WOGG",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Wobg",
@@ -585,7 +585,7 @@
                       "filterable":  1,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./json/wogg.json$$$WOBG",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "yydsys",
@@ -597,7 +597,7 @@
                       "filterable":  1,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./json/wogg.json$$$WNLG",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "蜡笔网盘",
@@ -609,7 +609,7 @@
                       "filterable":  1,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$https://duopan.fun/$$$noproxy$$$1$$$./json/wogg.json$$$LABI",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Mogg",
@@ -621,7 +621,7 @@
                       "filterable":  1,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "土豆",
@@ -633,7 +633,7 @@
                       "changeable":  1,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./lib/wog.json$$$TUDOU",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "小米网盘",
@@ -645,7 +645,7 @@
                       "filterable":  1,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Moli",
@@ -657,7 +657,7 @@
                       "filterable":  1,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./json/moli.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Xinshijue",
@@ -669,7 +669,7 @@
                       "filterable":  1,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$https://www.80yy3.com/$$$1$$$./lib/wogg.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Gaoqing",
@@ -681,7 +681,7 @@
                       "filterable":  1,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$https://gaoqing.la/$$$proxy$$$1",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "音范丝",
@@ -693,7 +693,7 @@
                       "filterable":  1,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$https://www.yinfans.me/$$$proxy$$$1",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "ddys",
@@ -705,7 +705,7 @@
                       "filterable":  1,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$https://ddys.pro/$$$proxy$$$1$$$",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "美剧迷",
@@ -717,7 +717,7 @@
                       "filterable":  1,
                       "timeout":  30,
                       "ext":  "./lib/token.json$$$https://www.meijumi.xyz/$$$null$$$1",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Ppxzy",
@@ -729,7 +729,7 @@
                       "filterable":  1,
                       "ext":  "./lib/token.json$$$https://ppxzy.ink/$$$null$$$1",
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Panta",
@@ -741,7 +741,7 @@
                       "filterable":  1,
                       "timeout":  30,
                       "ext":  "./lib/token.json$$$https://www.91panta.cn/$$$null$$$1",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Hdhive",
@@ -753,7 +753,7 @@
                       "filterable":  1,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$https://hdhive.online$$$noproxy$$$1$$$http://127.0.0.1:9978/file/TV/hdhive.txt",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "新6V",
@@ -764,7 +764,7 @@
                       "changeable":  1,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$https://www.66ss.org$$$null$$$1",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "4KHDR",
@@ -775,7 +775,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  60,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "校长影视",
@@ -786,7 +786,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "团长资源",
@@ -797,7 +797,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "YunPan",
@@ -806,7 +806,7 @@
                       "api":  "csp_YunPan",
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$null$$$proxy$$$1",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Wo4k",
@@ -818,7 +818,7 @@
                       "filterable":  1,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./wogg.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Xpanpan",
@@ -834,7 +834,7 @@
                                     "type":  "list",
                                     "ratio":  1.1
                                 },
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "TGYunPan",
@@ -843,7 +843,7 @@
                       "api":  "csp_TGYunPan",
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$http://144.126.217.226:8000/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$noproxy$$$1",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "YingSo",
@@ -852,7 +852,7 @@
                       "api":  "csp_YingSo",
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$1",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "盘友圈",
@@ -861,7 +861,7 @@
                       "api":  "csp_Panyq",
                       "timeout":  60,
                       "ext":  "./lib/token.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "88Pan",
@@ -870,7 +870,7 @@
                       "api":  "csp_EightEight",
                       "timeout":  30,
                       "ext":  "./lib/token.json$$$https://662688.xyz",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "PikaSo",
@@ -882,7 +882,7 @@
                       "filterable":  1,
                       "timeout":  30,
                       "ext":  "./lib/token.json$$$https://www.pikaso.top/$$$null",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "csp_HunHePan",
@@ -895,7 +895,7 @@
                       "filterable":  0,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$null$$$1",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "秒搜",
@@ -904,7 +904,7 @@
                       "api":  "csp_MiaoSou",
                       "timeout":  30,
                       "ext":  "./lib/token.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Libvio",
@@ -916,7 +916,7 @@
                       "filterable":  1,
                       "timeout":  30,
                       "ext":  "./lib/token.json$$$https://www.libvio.fun$$$null",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "DaPanSo",
@@ -928,7 +928,7 @@
                       "filterable":  1,
                       "timeout":  30,
                       "ext":  "./lib/token.json$$$https://dapanso.com$$$null",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Qianfan",
@@ -940,7 +940,7 @@
                       "filterable":  1,
                       "timeout":  30,
                       "ext":  "./lib/token.json$$$https://pan.qianfan.app$$$null$$$QianFanID=",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "YunSo",
@@ -952,7 +952,7 @@
                       "filterable":  1,
                       "timeout":  30,
                       "ext":  "./lib/token.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "YunPanOne",
@@ -964,7 +964,7 @@
                       "filterable":  1,
                       "timeout":  60,
                       "ext":  "./lib/token.json$$$proxy$$$1",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Gitcafe",
@@ -976,7 +976,7 @@
                       "filterable":  0,
                       "ext":  "./lib/token.json",
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "小紙條",
@@ -988,7 +988,7 @@
                       "filterable":  0,
                       "ext":  "./lib/token.json",
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "七夜",
@@ -999,7 +999,7 @@
                       "changeable":  0,
                       "ext":  "./lib/token.json",
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "盤搜索",
@@ -1010,7 +1010,7 @@
                       "changeable":  0,
                       "ext":  "./lib/token.json",
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "找資源",
@@ -1021,7 +1021,7 @@
                       "changeable":  0,
                       "ext":  "./lib/token.json$$$fanty$$$qqq111",
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "易搜",
@@ -1030,7 +1030,7 @@
                       "api":  "csp_YiSo",
                       "ext":  "./lib/token.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294",
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "盘搜",
@@ -1039,7 +1039,7 @@
                       "api":  "csp_PanSou",
                       "ext":  "./lib/token.json",
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "UP云搜",
@@ -1048,7 +1048,7 @@
                       "api":  "csp_UpYun",
                       "ext":  "./lib/token.json",
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "Funletu",
@@ -1060,7 +1060,7 @@
                       "filterable":  1,
                       "timeout":  30,
                       "ext":  "./lib/token.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "QuarkPanso",
@@ -1072,7 +1072,7 @@
                       "filterable":  1,
                       "timeout":  30,
                       "ext":  "./lib/token.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "小白",
@@ -1082,7 +1082,7 @@
                       "playerType":  1,
                       "timeout":  60,
                       "ext":  "./XBPQ/小白.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "BT天堂",
@@ -1094,7 +1094,7 @@
                       "quickSearch":  1,
                       "filterable":  1,
                       "ext":  "./XBPQ/bttt.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "布谷tv",
@@ -1106,7 +1106,7 @@
                       "quickSearch":  1,
                       "filterable":  1,
                       "ext":  "./XBPQ/布谷4K.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "haokongbu",
@@ -1118,7 +1118,7 @@
                       "quickSearch":  1,
                       "filterable":  1,
                       "ext":  "./XBPQ/好恐怖.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "圣城1080",
@@ -1130,7 +1130,7 @@
                       "quickSearch":  1,
                       "filterable":  1,
                       "ext":  "./XBPQ/圣城1080.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "秋霞",
@@ -1142,7 +1142,7 @@
                       "quickSearch":  1,
                       "filterable":  1,
                       "ext":  "./XBPQ/秋霞.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "VidHub",
@@ -1154,7 +1154,7 @@
                       "quickSearch":  1,
                       "filterable":  1,
                       "ext":  "./XBPQ/VidHub.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "rarbt",
@@ -1166,7 +1166,7 @@
                       "filterable":  1,
                       "api":  "csp_XBPQ",
                       "ext":  "./XBPQ/rarbt.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "XBPQ_文才",
@@ -1174,7 +1174,7 @@
                       "type":  3,
                       "api":  "csp_XBPQ",
                       "ext":  "./XBPQ/文才.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "XBPQ_BaiPiao",
@@ -1182,7 +1182,7 @@
                       "type":  3,
                       "api":  "csp_XBPQ",
                       "ext":  "./XBPQ/白嫖影视.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "XBPQ_黑狐影院",
@@ -1190,7 +1190,7 @@
                       "type":  3,
                       "api":  "csp_XBPQ",
                       "ext":  "./XBPQ/黑狐影院.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "XBPQ_电影先生",
@@ -1198,7 +1198,7 @@
                       "type":  3,
                       "api":  "csp_XBPQ",
                       "ext":  "./XBPQ/电影先生.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "XBPQ_麻衣影院",
@@ -1209,7 +1209,7 @@
                       "quickSearch":  1,
                       "filterable":  1,
                       "ext":  "./XBPQ/麻衣影院.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "相声",
@@ -1223,7 +1223,7 @@
                       "quickSearch":  0,
                       "api":  "csp_XBPQ",
                       "ext":  "./XBPQ/相声.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "评书",
@@ -1237,7 +1237,7 @@
                       "quickSearch":  0,
                       "api":  "csp_XBPQ",
                       "ext":  "./XBPQ/评书.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_4KHDR",
@@ -1250,7 +1250,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_MP4US",
@@ -1263,7 +1263,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_电影港",
@@ -1276,7 +1276,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_kuba",
@@ -1287,7 +1287,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_xb6v",
@@ -1300,7 +1300,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_美剧迷p",
@@ -1311,7 +1311,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_ddys",
@@ -1322,7 +1322,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_libvio",
@@ -1333,7 +1333,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_tzfile",
@@ -1344,7 +1344,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_dydhhy",
@@ -1355,7 +1355,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_97tvs",
@@ -1366,7 +1366,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_rrdyw",
@@ -1377,7 +1377,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_校长影视",
@@ -1388,7 +1388,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_yyetsp",
@@ -1399,7 +1399,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_奇妙搜[夸]",
@@ -1410,7 +1410,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_愛盤搜",
@@ -1421,7 +1421,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_趣盤搜",
@@ -1432,7 +1432,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "drpy_js_meow",
@@ -1443,7 +1443,7 @@
                       "quickSearch":  1,
                       "changeable":  1,
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "push_quark",
@@ -1453,7 +1453,7 @@
                       "changeable":  0,
                       "ext":  "http://127.0.0.1:9978/file/TV/quark.txt",
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "push_agent",
@@ -1465,7 +1465,7 @@
                       "changeable":  0,
                       "ext":  "./lib/token.json",
                       "timeout":  30,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "量子",
@@ -1475,7 +1475,7 @@
                       "playUrl":  "json:http://127.0.0.1:10079/parse/?thread=0\u0026proxy=\u0026url=",
                       "searchable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "非凡",
@@ -1485,7 +1485,7 @@
                       "playUrl":  "json:http://127.0.0.1:10079/parse/?thread=0\u0026proxy=\u0026url=",
                       "searchable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "haiwaikan",
@@ -1495,7 +1495,7 @@
                       "playUrl":  "json:http://127.0.0.1:10079/parse/?thread=0\u0026proxy=\u0026url=",
                       "searchable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "暴風",
@@ -1505,7 +1505,7 @@
                       "playUrl":  "json:http://127.0.0.1:10079/parse/?thread=0\u0026proxy=\u0026url=",
                       "searchable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "索尼",
@@ -1515,7 +1515,7 @@
                       "playUrl":  "json:http://127.0.0.1:10079/parse/?thread=0\u0026proxy=\u0026url=",
                       "searchable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "快帆",
@@ -1525,7 +1525,7 @@
                       "playUrl":  "json:http://127.0.0.1:10079/parse/?thread=0\u0026proxy=\u0026url=",
                       "searchable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "乐视",
@@ -1535,7 +1535,7 @@
                       "playUrl":  "json:http://127.0.0.1:10079/parse/?thread=0\u0026proxy=proxy\u0026url=",
                       "searchable":  1,
                       "changeable":  1,
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "AList",
@@ -1545,7 +1545,7 @@
                       "searchable":  1,
                       "changeable":  0,
                       "ext":  "./json/alist.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "WebDAV",
@@ -1555,7 +1555,7 @@
                       "searchable":  1,
                       "changeable":  0,
                       "ext":  "./json/webdav.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   },
                   {
                       "key":  "應用商店",
@@ -1565,7 +1565,7 @@
                       "searchable":  0,
                       "changeable":  0,
                       "ext":  "./json/market.json",
-                      "jar":  "https://gitee.com/lebond/maomaoyu/raw/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
                   }
               ],
     "parses":  [
