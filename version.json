@@ -1,0 +1,22 @@
+{
+    "versionCode":  25,
+    "versionName":  "1.9.2",
+    "force":  false,
+    "changelog":  [
+                      "发布渠道整体迁到 GitHub（lebond2021/maomaoyu），清单与 APK 默认走 ghfast.top 加速",
+                      "清单/配置/附件三级回退：ghfast.top -\u003e gh-proxy.com -\u003e 直连",
+                      "配置与 jar 地址同步改为 GitHub raw，仓库 sources/*.json 已批量重写",
+                      "内置源 assets 版本 5 -\u003e 6，首启即用新地址",
+                      "保留 1.9.1 全部改动：黑屏浮层、长搜索、不自动退首页、自动升画质、卡顿换源"
+                  ],
+    "apk64":  {
+                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.9.2/maomaoyu-1.9.2-arm64.apk",
+                  "size":  30920673,
+                  "md5":  "1be3bc102cece6eeed94c12b62438ef1"
+              },
+    "apk32":  {
+                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.9.2/maomaoyu-1.9.2-arm32.apk",
+                  "size":  29952146,
+                  "md5":  "70be8cb84fe0be3f3b75231d2a5a1d1f"
+              }
+}
