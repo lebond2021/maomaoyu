@@ -1,6 +1,6 @@
 {
-    "version":  2026112418,
-    "updated":  "2026-11-24 18:51",
+    "version":  2026112419,
+    "updated":  "2026-11-24 19:01",
     "note":  "cms-verified whitelist",
     "items":  [
                   {
@@ -186,33 +186,6 @@
                                       "site":  "魔都资源",
                                       "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
                                       "vid":  "92758",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-92755",
-                      "tab":  1,
-                      "title":  "复仇者联盟4：终局之战加长彩蛋版",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20261113-1/e127280c20aadee6667eac545967c00a.jpg",
-                      "rate":  "",
-                      "year":  "2019",
-                      "genres":  [
-                                     "动作片"
-                                 ],
-                      "countries":  [
-                                        "美国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "92755",
                                       "flag":  "line0",
                                       "idx":  0,
                                       "media":  null
@@ -1239,33 +1212,6 @@
                                       "site":  "魔都资源",
                                       "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
                                       "vid":  "92470",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-92277",
-                      "tab":  1,
-                      "title":  "迈克·泰森：迈克归来",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20261104-1/79b59a327dc780fffd9cb5d052cef006.webp",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "喜剧片"
-                                 ],
-                      "countries":  [
-                                        "美国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "92277",
                                       "flag":  "line0",
                                       "idx":  0,
                                       "media":  null
@@ -6457,33 +6403,6 @@
                               ]
                   },
                   {
-                      "id":  "cms1-91200",
-                      "tab":  1,
-                      "title":  "战神戚继光之不让江山",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20261013-1/766fc63d3bbb101ae7049f63178ca5e1.jpg",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "战争片"
-                                 ],
-                      "countries":  [
-                                        "中国大陆"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "91200",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms1-89385",
                       "tab":  1,
                       "title":  "古寨枪声",
@@ -8286,87 +8205,6 @@
                                       "site":  "金鹰资源",
                                       "api":  "https://jinyingzy.com/provide/vod/",
                                       "vid":  "161229",
-                                      "flag":  "line1",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-161158",
-                      "tab":  1,
-                      "title":  "重生2",
-                      "pic":  "https://image.jinyingimage.com/cover/1382c27078b2ec9868faa8a4f7516e64.jpg",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "动作片"
-                                 ],
-                      "countries":  [
-                                        "中国大陆"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "金鹰资源",
-                                      "api":  "https://jinyingzy.com/provide/vod/",
-                                      "vid":  "161158",
-                                      "flag":  "line1",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-161028",
-                      "tab":  1,
-                      "title":  "从足球流氓到黑帮崛起7",
-                      "pic":  "https://image.jinyingimage.com/cover/ddf944122a79fa6e4f85831d947be22a.jpg",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "动作片"
-                                 ],
-                      "countries":  [
-                                        "英国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "金鹰资源",
-                                      "api":  "https://jinyingzy.com/provide/vod/",
-                                      "vid":  "161028",
-                                      "flag":  "line1",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-160900",
-                      "tab":  1,
-                      "title":  "复仇深潜",
-                      "pic":  "https://image.jinyingimage.com/cover/14700e122d3c52f9a500d0eeb9b0a781.jpg",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "动作片"
-                                 ],
-                      "countries":  [
-                                        "英国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "金鹰资源",
-                                      "api":  "https://jinyingzy.com/provide/vod/",
-                                      "vid":  "160900",
                                       "flag":  "line1",
                                       "idx":  0,
                                       "media":  null
@@ -10858,33 +10696,6 @@
                               ]
                   },
                   {
-                      "id":  "cms1-112097",
-                      "tab":  1,
-                      "title":  "宇宙巨人，希曼崛起",
-                      "pic":  "https://image.jinyingimage.com/cover/226c2ac05120cbad08bb0cf415d0190b.jpg",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "科幻片"
-                                 ],
-                      "countries":  [
-                                        "美国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "金鹰资源",
-                                      "api":  "https://jinyingzy.com/provide/vod/",
-                                      "vid":  "112097",
-                                      "flag":  "line1",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms1-112391",
                       "tab":  1,
                       "title":  "沉迷改变",
@@ -11607,33 +11418,6 @@
                                       "site":  "金鹰资源",
                                       "api":  "https://jinyingzy.com/provide/vod/",
                                       "vid":  "163899",
-                                      "flag":  "line1",
-                                      "idx":  0,
-                                      "media":  null
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-163896",
-                      "tab":  1,
-                      "title":  "罗摩衍那：传奇崛起",
-                      "pic":  "https://image.jinyingimage.com/cover/c9aa2f73002e81f5e059ed1184113a44.jpg",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "剧情片"
-                                 ],
-                      "countries":  [
-                                        "印度"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "金鹰资源",
-                                      "api":  "https://jinyingzy.com/provide/vod/",
-                                      "vid":  "163896",
                                       "flag":  "line1",
                                       "idx":  0,
                                       "media":  null
@@ -14233,6 +14017,33 @@
                               ]
                   },
                   {
+                      "id":  "cms1-199292",
+                      "tab":  1,
+                      "title":  "蓝色星球第三季",
+                      "pic":  "https://hongniuzyimage.com/cover/af63463ff5a5d0771094a10a7f484794.jpg",
+                      "rate":  "",
+                      "year":  "2026",
+                      "genres":  [
+                                     "纪录片"
+                                 ],
+                      "countries":  [
+                                        "英国"
+                                    ],
+                      "votes":  0,
+                      "eps":  0,
+                      "dur":  0,
+                      "src":  [
+                                  {
+                                      "site":  "红牛资源",
+                                      "api":  "https://www.hongniuzy2.com/api.php/provide/vod/",
+                                      "vid":  "199292",
+                                      "flag":  "line1",
+                                      "idx":  0,
+                                      "media":  3
+                                  }
+                              ]
+                  },
+                  {
                       "id":  "cms1-200616",
                       "tab":  1,
                       "title":  "追逐：F1学院",
@@ -14445,33 +14256,6 @@
                                       "flag":  "line1",
                                       "idx":  0,
                                       "media":  8
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms1-199292",
-                      "tab":  1,
-                      "title":  "蓝色星球第三季",
-                      "pic":  "https://hongniuzyimage.com/cover/af63463ff5a5d0771094a10a7f484794.jpg",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "纪录片"
-                                 ],
-                      "countries":  [
-                                        "英国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "红牛资源",
-                                      "api":  "https://www.hongniuzy2.com/api.php/provide/vod/",
-                                      "vid":  "199292",
-                                      "flag":  "line1",
-                                      "idx":  0,
-                                      "media":  2
                                   }
                               ]
                   },
@@ -16231,33 +16015,6 @@
                               ]
                   },
                   {
-                      "id":  "cms2-92725",
-                      "tab":  2,
-                      "title":  "假面归来",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20261113-1/16a5055968d85ed902ed75aa1736a57b.webp",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "国产剧"
-                                 ],
-                      "countries":  [
-                                        "中国大陆"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "92725",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  24
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms2-92853",
                       "tab":  2,
                       "title":  "大夏奇闻诡案录",
@@ -17307,33 +17064,6 @@
                                       "flag":  "line0",
                                       "idx":  0,
                                       "media":  2
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-92039",
-                      "tab":  2,
-                      "title":  "布兰克夫人第五季",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20261030-1/67203bc5fd363a30906a8918f2d1f323.webp",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "欧美剧"
-                                 ],
-                      "countries":  [
-                                        "英国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "92039",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  4
                                   }
                               ]
                   },
@@ -19336,33 +19066,6 @@
                               ]
                   },
                   {
-                      "id":  "cms2-90570",
-                      "tab":  2,
-                      "title":  "Doubt‑15年后的复仇‑",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20261002-1/c7527e60bcd5097c8d85e9285705974a.webp",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "日本剧"
-                                 ],
-                      "countries":  [
-                                        "日本"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "90570",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  8
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms2-90984",
                       "tab":  2,
                       "title":  "女友的妹妹～充满诱惑的三角关系～",
@@ -20578,33 +20281,6 @@
                               ]
                   },
                   {
-                      "id":  "cms2-92760",
-                      "tab":  2,
-                      "title":  "重生密码",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20261113-1/b3b0ced8244d2915d24fe681ec457220.webp",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "台湾剧"
-                                 ],
-                      "countries":  [
-                                        "中国台湾"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "92760",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  13
-                                  }
-                              ]
-                  },
-                  {
                       "id":  "cms2-88703",
                       "tab":  2,
                       "title":  "接招吧！制作人",
@@ -21789,60 +21465,6 @@
                                       "flag":  "line0",
                                       "idx":  0,
                                       "media":  9
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-93176",
-                      "tab":  2,
-                      "title":  "灵魂重生 番外",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20261122-1/ba2c9b1afc541f7c1a4e961eea0a5ef3.webp",
-                      "rate":  "",
-                      "year":  "2026",
-                      "genres":  [
-                                     "泰国剧"
-                                 ],
-                      "countries":  [
-                                        "泰国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "93176",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  4
-                                  }
-                              ]
-                  },
-                  {
-                      "id":  "cms2-60921",
-                      "tab":  2,
-                      "title":  "灵魂重生",
-                      "pic":  "https://www.mdzypic.com/upload/vod/20250810-1/3dac3a8fe6ce8619f9ddead8bea75d4b.jpg",
-                      "rate":  "",
-                      "year":  "2025",
-                      "genres":  [
-                                     "泰国剧"
-                                 ],
-                      "countries":  [
-                                        "泰国"
-                                    ],
-                      "votes":  0,
-                      "eps":  0,
-                      "dur":  0,
-                      "src":  [
-                                  {
-                                      "site":  "魔都资源",
-                                      "api":  "https://caiji.moduapi.cc/api.php/provide/vod/",
-                                      "vid":  "60921",
-                                      "flag":  "line0",
-                                      "idx":  0,
-                                      "media":  12
                                   }
                               ]
                   },
