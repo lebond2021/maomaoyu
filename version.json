@@ -1,26 +1,26 @@
 {
-    "versionCode":  31,
-    "versionName":  "1.11.1",
+    "versionCode":  32,
+    "versionName":  "1.11.2",
     "force":  false,
     "changelog":  [
-                      "1.11.1 分类页只显示「能播 + 有人看」的内容",
-                      "· 新增「能播白名单」：服务端用采集站实探（Range 0-1023 拿到 200/206）生成 home/playable.json，客户端本地筛选，不再把放不了的片子摆出来",
-                      "· 分类页默认「只看能播的」：电影 530 部、电视剧 284 部、综艺 149 部，点开直接带已验证站点进详情，跳过全站搜索",
-                      "· 筛选行（类型/地区/年份/排序）改成按白名单实际数据生成，每个选项点进去都有片",
-                      "· 去掉短剧/解说/合集/花絮等内容，评分低于 6.0 的烂片不进白名单",
-                      "· 排序行按数据能力显示：没有评分数据时不出「评分」，没有评价人数时不出「热度」",
-                      "· 右上角可切「全部」，回到豆瓣实时列表（原有能力保留）",
-                      "· 首屏本地读取，翻页 20 条/页，滚到底自动加载",
-                      "· 修：豆瓣图床 Referer、接口限流、分类页焦点被列表抢走"
+                      "1.11.2 白名单加「热度」信号：用采集站的播放量排序",
+                      "· 白名单每条新增 hits（采集站 vod_hits）、scoreNum（vod_score_num）、douban（vod_douban_id）：964 条里 963 条带播放量",
+                      "· 排序「热度」上线：按站内真实播放量排，不再依赖豆瓣评价人数",
+                      "· 排序「综合」改为复合分：评分×10（0-100）+ 播放量对数加权（0-10），高分又有人看的排最前",
+                      "· 评分缺失时回落采集站 vod_score，评分条目 65 条、评价人数 337 条",
+                      "· 同名条目跨站合并时补海报，减少绿底占位",
+                      "· 修 bug：白名单卡片点开时传给详情页的 id 是本地占位符（p:xxx），现在改成按片名搜（msearch:###片名###封面），命中白名单源才用真实 vod_id",
+                      "· 每周自动流程补全：sync → health-check → build-playable2 → enrich-playable → 复制 assets → push",
+                      "数据：playable.json version 2026112500，964 条（电影 530 / 电视剧 286 / 综艺 148）"
                   ],
     "apk64":  {
-                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.11.1/maomaoyu-1.11.1-arm64.apk",
-                  "size":  31031633,
-                  "md5":  "de837361924cfffd55d700f115d59144"
+                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.11.2/maomaoyu-1.11.2-arm64.apk",
+                  "size":  31043583,
+                  "md5":  "bc4ebca3645889a05617cd606b9ce0f5"
               },
     "apk32":  {
-                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.11.1/maomaoyu-1.11.1-arm32.apk",
-                  "size":  30069397,
-                  "md5":  "b021377fa84a3d5ba807d329537cec56"
+                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.11.2/maomaoyu-1.11.2-arm32.apk",
+                  "size":  30080858,
+                  "md5":  "92c00e978d18310c20a581a1db3fb2f3"
               }
 }
