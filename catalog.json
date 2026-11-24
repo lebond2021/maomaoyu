@@ -1,6 +1,6 @@
 {
-    "version":  2026112414,
-    "updated":  "2026-11-24 14:13",
+    "version":  2026112415,
+    "updated":  "2026-11-24 14:15",
     "remoteIndex":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/catalog.json",
     "sources":  [
                     {
@@ -87,12 +87,14 @@
     "flags":  {
                   "disabledSites":  [
                                         "腾腾视频",
+                                        "Jrsjs",
+                                        "虎牙直播js",
                                         "快帆",
                                         "金蝉采集",
                                         "小绵阳采集",
                                         "乐视",
                                         "lbapiby.com"
                                     ],
-                  "updated":  "2026-11-24 09:03"
+                  "updated":  "2026-11-24 14:15"
               }
 }

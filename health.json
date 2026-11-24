@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-24 09:01",
+    "updated":  "2026-11-24 14:13",
     "keyword":  "庆余年",
     "sites":  {
                   "点我切源":  {
@@ -437,7 +437,7 @@
                   "腾腾视频":  {
                                "type":  3,
                                "ok":  false,
-                               "ms":  2919,
+                               "ms":  3254,
                                "msg":  "http410",
                                "hasM3u8":  false,
                                "noSearch":  false
@@ -469,7 +469,7 @@
                   "360资源":  {
                                 "type":  1,
                                 "ok":  true,
-                                "ms":  1548,
+                                "ms":  1658,
                                 "msg":  "hit-json",
                                 "hasM3u8":  true,
                                 "noSearch":  false
@@ -477,7 +477,7 @@
                   "非凡":  {
                              "type":  1,
                              "ok":  true,
-                             "ms":  860,
+                             "ms":  864,
                              "msg":  "hit-json",
                              "hasM3u8":  true,
                              "noSearch":  false
@@ -485,7 +485,7 @@
                   "量子":  {
                              "type":  0,
                              "ok":  true,
-                             "ms":  1570,
+                             "ms":  1450,
                              "msg":  "hit-xml",
                              "hasM3u8":  true,
                              "noSearch":  false
@@ -796,17 +796,17 @@
                          },
                   "Jrsjs":  {
                                 "type":  3,
-                                "ok":  true,
-                                "ms":  2007,
-                                "msg":  "http200",
+                                "ok":  false,
+                                "ms":  739,
+                                "msg":  "http429",
                                 "hasM3u8":  false,
                                 "noSearch":  false
                             },
                   "虎牙直播js":  {
                                  "type":  3,
-                                 "ok":  true,
-                                 "ms":  1870,
-                                 "msg":  "http200",
+                                 "ok":  false,
+                                 "ms":  673,
+                                 "msg":  "http429",
                                  "hasM3u8":  false,
                                  "noSearch":  false
                              },
@@ -853,7 +853,7 @@
                   "百度":  {
                              "type":  1,
                              "ok":  true,
-                             "ms":  2041,
+                             "ms":  1421,
                              "msg":  "hit-json",
                              "hasM3u8":  true,
                              "noSearch":  false
@@ -861,7 +861,7 @@
                   "haiwaikan":  {
                                     "type":  1,
                                     "ok":  true,
-                                    "ms":  1118,
+                                    "ms":  1116,
                                     "msg":  "reachable-no-hit",
                                     "hasM3u8":  false,
                                     "noSearch":  false
@@ -869,7 +869,7 @@
                   "暴風":  {
                              "type":  1,
                              "ok":  true,
-                             "ms":  1216,
+                             "ms":  1230,
                              "msg":  "hit-json",
                              "hasM3u8":  true,
                              "noSearch":  false
@@ -877,7 +877,7 @@
                   "索尼":  {
                              "type":  0,
                              "ok":  true,
-                             "ms":  746,
+                             "ms":  733,
                              "msg":  "no-search",
                              "hasM3u8":  false,
                              "noSearch":  true
@@ -885,7 +885,7 @@
                   "快帆":  {
                              "type":  1,
                              "ok":  false,
-                             "ms":  1484,
+                             "ms":  1666,
                              "msg":  "http0",
                              "hasM3u8":  false,
                              "noSearch":  false
@@ -1637,7 +1637,7 @@
                   "电影天堂":  {
                                "type":  1,
                                "ok":  true,
-                               "ms":  837,
+                               "ms":  841,
                                "msg":  "hit-json",
                                "hasM3u8":  true,
                                "noSearch":  false
@@ -1645,7 +1645,7 @@
                   "天涯采集":  {
                                "type":  1,
                                "ok":  true,
-                               "ms":  586,
+                               "ms":  583,
                                "msg":  "no-search",
                                "hasM3u8":  false,
                                "noSearch":  true
@@ -1653,7 +1653,7 @@
                   "卧龙资源":  {
                                "type":  1,
                                "ok":  true,
-                               "ms":  1523,
+                               "ms":  1502,
                                "msg":  "reachable-no-hit",
                                "hasM3u8":  false,
                                "noSearch":  false
@@ -1661,7 +1661,7 @@
                   "U酷资源風":  {
                                 "type":  1,
                                 "ok":  true,
-                                "ms":  1546,
+                                "ms":  1491,
                                 "msg":  "hit-json",
                                 "hasM3u8":  true,
                                 "noSearch":  false
@@ -1669,7 +1669,7 @@
                   "极速资源":  {
                                "type":  1,
                                "ok":  true,
-                               "ms":  1100,
+                               "ms":  1038,
                                "msg":  "hit-json",
                                "hasM3u8":  true,
                                "noSearch":  false
@@ -1677,7 +1677,7 @@
                   "建安采集":  {
                                "type":  1,
                                "ok":  true,
-                               "ms":  2572,
+                               "ms":  5060,
                                "msg":  "hit-json",
                                "hasM3u8":  false,
                                "noSearch":  false
@@ -1685,7 +1685,7 @@
                   "金蝉采集":  {
                                "type":  1,
                                "ok":  false,
-                               "ms":  1470,
+                               "ms":  1497,
                                "msg":  "http0",
                                "hasM3u8":  false,
                                "noSearch":  false
@@ -1693,7 +1693,7 @@
                   "小绵阳采集":  {
                                 "type":  1,
                                 "ok":  false,
-                                "ms":  879,
+                                "ms":  780,
                                 "msg":  "http404",
                                 "hasM3u8":  false,
                                 "noSearch":  false
@@ -1701,7 +1701,7 @@
                   "率率":  {
                              "type":  1,
                              "ok":  true,
-                             "ms":  737,
+                             "ms":  717,
                              "msg":  "no-search",
                              "hasM3u8":  false,
                              "noSearch":  true
@@ -2125,7 +2125,7 @@
                   "乐视":  {
                              "type":  1,
                              "ok":  false,
-                             "ms":  1461,
+                             "ms":  1508,
                              "msg":  "http0",
                              "hasM3u8":  false,
                              "noSearch":  false
@@ -2237,7 +2237,7 @@
                   "155zy.com":  {
                                     "type":  1,
                                     "ok":  true,
-                                    "ms":  975,
+                                    "ms":  954,
                                     "msg":  "hit-json",
                                     "hasM3u8":  true,
                                     "noSearch":  false
@@ -2245,7 +2245,7 @@
                   "jkunzy.com":  {
                                      "type":  1,
                                      "ok":  true,
-                                     "ms":  1582,
+                                     "ms":  1586,
                                      "msg":  "reachable-no-hit",
                                      "hasM3u8":  false,
                                      "noSearch":  false
@@ -2253,7 +2253,7 @@
                   "lebozy.com":  {
                                      "type":  1,
                                      "ok":  true,
-                                     "ms":  959,
+                                     "ms":  913,
                                      "msg":  "hit-json",
                                      "hasM3u8":  true,
                                      "noSearch":  false
@@ -2261,7 +2261,7 @@
                   "senlinzy.com":  {
                                        "type":  1,
                                        "ok":  true,
-                                       "ms":  1025,
+                                       "ms":  1910,
                                        "msg":  "hit-json",
                                        "hasM3u8":  true,
                                        "noSearch":  false
@@ -2269,7 +2269,7 @@
                   "didizy.com":  {
                                      "type":  1,
                                      "ok":  true,
-                                     "ms":  1371,
+                                     "ms":  1213,
                                      "msg":  "hit-json",
                                      "hasM3u8":  true,
                                      "noSearch":  false
@@ -2277,7 +2277,7 @@
                   "vnzyz.com":  {
                                     "type":  1,
                                     "ok":  true,
-                                    "ms":  1293,
+                                    "ms":  1836,
                                     "msg":  "reachable-no-hit",
                                     "hasM3u8":  false,
                                     "noSearch":  false
@@ -2285,7 +2285,7 @@
                   "laosebizy.com":  {
                                         "type":  1,
                                         "ok":  true,
-                                        "ms":  5978,
+                                        "ms":  762,
                                         "msg":  "hit-json",
                                         "hasM3u8":  true,
                                         "noSearch":  false
@@ -2293,7 +2293,7 @@
                   "fhapi9.com":  {
                                      "type":  1,
                                      "ok":  true,
-                                     "ms":  831,
+                                     "ms":  852,
                                      "msg":  "hit-json",
                                      "hasM3u8":  true,
                                      "noSearch":  false
@@ -2301,7 +2301,7 @@
                   "madouse.la":  {
                                      "type":  1,
                                      "ok":  true,
-                                     "ms":  2531,
+                                     "ms":  2971,
                                      "msg":  "hit-json",
                                      "hasM3u8":  true,
                                      "noSearch":  false
@@ -2309,7 +2309,7 @@
                   "jingpinx.com":  {
                                        "type":  1,
                                        "ok":  true,
-                                       "ms":  1584,
+                                       "ms":  1586,
                                        "msg":  "hit-json",
                                        "hasM3u8":  true,
                                        "noSearch":  false
@@ -2317,7 +2317,7 @@
                   "semaozy.com":  {
                                       "type":  1,
                                       "ok":  true,
-                                      "ms":  744,
+                                      "ms":  758,
                                       "msg":  "reachable-no-hit",
                                       "hasM3u8":  false,
                                       "noSearch":  false
@@ -2325,7 +2325,7 @@
                   "lajiaozy.com":  {
                                        "type":  1,
                                        "ok":  true,
-                                       "ms":  1670,
+                                       "ms":  1668,
                                        "msg":  "hit-json",
                                        "hasM3u8":  true,
                                        "noSearch":  false
@@ -2333,7 +2333,7 @@
                   "ffzy.tv":  {
                                   "type":  1,
                                   "ok":  true,
-                                  "ms":  986,
+                                  "ms":  1994,
                                   "msg":  "hit-json",
                                   "hasM3u8":  true,
                                   "noSearch":  false
@@ -2341,7 +2341,7 @@
                   "玉兔资源":  {
                                "type":  0,
                                "ok":  true,
-                               "ms":  5215,
+                               "ms":  4454,
                                "msg":  "hit-xml",
                                "hasM3u8":  true,
                                "noSearch":  false
@@ -2349,7 +2349,7 @@
                   "lbapiby.com":  {
                                       "type":  0,
                                       "ok":  false,
-                                      "ms":  792,
+                                      "ms":  794,
                                       "msg":  "http502",
                                       "hasM3u8":  false,
                                       "noSearch":  false
@@ -2357,7 +2357,7 @@
                   "pgxdy.com":  {
                                     "type":  0,
                                     "ok":  true,
-                                    "ms":  1012,
+                                    "ms":  967,
                                     "msg":  "reachable-no-hit",
                                     "hasM3u8":  false,
                                     "noSearch":  false
@@ -2369,6 +2369,70 @@
                                         "msg":  "relative-skip",
                                         "hasM3u8":  false,
                                         "noSearch":  false
-                                    }
+                                    },
+                  "veri_cjrycjapicom":  {
+                                            "type":  1,
+                                            "ok":  true,
+                                            "ms":  2635,
+                                            "msg":  "hit-json",
+                                            "hasM3u8":  true,
+                                            "noSearch":  false
+                                        },
+                  "veri_jinyingzycom":  {
+                                            "type":  1,
+                                            "ok":  true,
+                                            "ms":  1362,
+                                            "msg":  "hit-json",
+                                            "hasM3u8":  true,
+                                            "noSearch":  false
+                                        },
+                  "veri_caijimgzyapicom":  {
+                                               "type":  1,
+                                               "ok":  true,
+                                               "ms":  1915,
+                                               "msg":  "hit-json",
+                                               "hasM3u8":  true,
+                                               "noSearch":  false
+                                           },
+                  "veri_caijimoduapicc":  {
+                                              "type":  1,
+                                              "ok":  true,
+                                              "ms":  1297,
+                                              "msg":  "hit-json",
+                                              "hasM3u8":  true,
+                                              "noSearch":  false
+                                          },
+                  "veri_cdndzzyapicom":  {
+                                             "type":  1,
+                                             "ok":  true,
+                                             "ms":  1411,
+                                             "msg":  "hit-json",
+                                             "hasM3u8":  true,
+                                             "noSearch":  false
+                                         },
+                  "veri_wwwhongniuzy2com":  {
+                                                "type":  1,
+                                                "ok":  true,
+                                                "ms":  1388,
+                                                "msg":  "hit-json",
+                                                "hasM3u8":  true,
+                                                "noSearch":  false
+                                            },
+                  "veri_ikunzyapicom":  {
+                                            "type":  1,
+                                            "ok":  true,
+                                            "ms":  1270,
+                                            "msg":  "hit-json",
+                                            "hasM3u8":  true,
+                                            "noSearch":  false
+                                        },
+                  "veri_iqiyizyapicom":  {
+                                             "type":  1,
+                                             "ok":  true,
+                                             "ms":  5526,
+                                             "msg":  "hit-json",
+                                             "hasM3u8":  true,
+                                             "noSearch":  false
+                                         }
               }
 }

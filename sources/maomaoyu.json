@@ -744,7 +744,9 @@
                       "type":  3,
                       "api":  "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
                       "ext":  "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/TXSP.js",
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/dongli-spider.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/dongli-spider.jar",
+                      "searchable":  0,
+                      "changeable":  0
                   },
                   {
                       "key":  "360影视",
@@ -809,8 +811,6 @@
                       "name":  "🍀｜360｜采集",
                       "type":  1,
                       "api":  "https://360zy.com/api.php/seaxml/vod/",
-                      "searchable":  1,
-                      "changeable":  0,
                       "categories":  [
                                          "国产动漫",
                                          "日韩动漫",
@@ -842,7 +842,9 @@
                                          "港台动漫",
                                          "海外动漫"
                                      ],
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/dongli-spider.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/dongli-spider.jar",
+                      "searchable":  1,
+                      "changeable":  1
                   },
                   {
                       "key":  "非凡",
@@ -1517,7 +1519,6 @@
                       "name":  "百度┃采集",
                       "type":  1,
                       "api":  "https://api.apibdzy.com/api.php/provide/vod?ac=list",
-                      "searchable":  1,
                       "filterable":  0,
                       "categories":  [
                                          "国产动漫",
@@ -1534,7 +1535,9 @@
                                          "剧情片",
                                          "战争片"
                                      ],
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt",
+                      "searchable":  1,
+                      "changeable":  1
                   },
                   {
                       "key":  "量子",
@@ -1644,18 +1647,18 @@
                       "name":  "索尼┃采集",
                       "type":  1,
                       "api":  "https://suoniapi.com/api.php/provide/vod",
-                      "searchable":  1,
-                      "changeable":  1,
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt",
+                      "searchable":  0,
+                      "changeable":  0
                   },
                   {
                       "key":  "快帆",
                       "name":  "快帆┃采集",
                       "type":  1,
                       "api":  "https://api.kuaifan.tv/api.php/provide/vod",
-                      "searchable":  1,
-                      "changeable":  1,
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/fan.txt",
+                      "searchable":  0,
+                      "changeable":  0
                   },
                   {
                       "key":  "cupfox_in",
@@ -2804,19 +2807,18 @@
                                     "type":  "rect",
                                     "ratio":  1.33
                                 },
-                      "searchable":  1,
                       "quickSearch":  1,
                       "filterable":  1,
-                      "changeable":  1,
                       "playerType":  2,
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar",
+                      "searchable":  0,
+                      "changeable":  0
                   },
                   {
                       "key":  "非凡",
                       "name":  "影视 • 非凡[直连]",
                       "type":  1,
                       "api":  "http://ffzy.tv/api.php/provide/vod/",
-                      "searchable":  1,
                       "categories":  [
                                          "动作片",
                                          "喜剧片",
@@ -2844,14 +2846,15 @@
                                          "港台动漫",
                                          "海外动漫"
                                      ],
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar",
+                      "searchable":  1,
+                      "changeable":  1
                   },
                   {
                       "key":  "索尼",
                       "name":  "影视 • 索尼[直连]",
                       "type":  0,
                       "api":  "https://suoniapi.com/api.php/provide/vod/at/xml/",
-                      "searchable":  1,
                       "categories":  [
                                          "动作片",
                                          "喜剧片",
@@ -2880,7 +2883,9 @@
                                          "海外动漫",
                                          "影视解说"
                                      ],
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar",
+                      "searchable":  0,
+                      "changeable":  0
                   },
                   {
                       "key":  "卧龙资源",
@@ -2896,7 +2901,6 @@
                       "name":  "影视 • 尤酷[直连]",
                       "type":  1,
                       "api":  "https://api.ukuapi.com/api.php/provide/vod/?ac=list",
-                      "searchable":  1,
                       "categories":  [
                                          "综艺",
                                          "动漫",
@@ -2923,14 +2927,15 @@
                       "header":  {
                                      "User-Agent":  "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
                                  },
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar",
+                      "searchable":  1,
+                      "changeable":  1
                   },
                   {
                       "key":  "极速资源",
                       "name":  "影视 • 极速[直连]",
                       "type":  1,
                       "api":  "https://jszyapi.com/api.php/provide/vod/?ac=list",
-                      "searchable":  1,
                       "categories":  [
                                          "欧美剧",
                                          "香港剧",
@@ -2967,7 +2972,9 @@
                       "header":  {
                                      "User-Agent":  "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
                                  },
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar",
+                      "searchable":  1,
+                      "changeable":  1
                   },
                   {
                       "key":  "建安采集",
@@ -2978,12 +2985,12 @@
                                     "type":  "rect",
                                     "ratio":  1.33
                                 },
-                      "searchable":  1,
                       "quickSearch":  1,
                       "filterable":  1,
-                      "changeable":  1,
                       "playerType":  2,
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar",
+                      "searchable":  1,
+                      "changeable":  0
                   },
                   {
                       "key":  "金蝉采集",
@@ -2994,12 +3001,12 @@
                                     "type":  "rect",
                                     "ratio":  1.33
                                 },
-                      "searchable":  1,
                       "quickSearch":  1,
                       "filterable":  1,
-                      "changeable":  1,
                       "playerType":  2,
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar",
+                      "searchable":  0,
+                      "changeable":  0
                   },
                   {
                       "key":  "小绵阳采集",
@@ -3010,21 +3017,19 @@
                                     "type":  "rect",
                                     "ratio":  1.33
                                 },
-                      "searchable":  1,
                       "quickSearch":  1,
                       "filterable":  1,
-                      "changeable":  1,
                       "playerType":  2,
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar",
+                      "searchable":  0,
+                      "changeable":  0
                   },
                   {
                       "key":  "率率",
                       "name":  "影视 • 率率[直连]",
                       "type":  1,
                       "api":  "https://suoniapi.com/api.php/provide/vod/?ac=list",
-                      "searchable":  1,
                       "quickSearch":  1,
-                      "changeable":  1,
                       "categories":  [
                                          "国产剧",
                                          "韩剧",
@@ -3044,7 +3049,9 @@
                                          "大陆综艺",
                                          "日韩综艺"
                                      ],
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/spider.jar",
+                      "searchable":  0,
+                      "changeable":  0
                   },
                   {
                       "key":  "暴風",
@@ -3701,9 +3708,9 @@
                       "type":  1,
                       "api":  "https://leshiapi.com/api.php/provide/vod",
                       "playUrl":  "json:http://127.0.0.1:10079/parse/?thread=0\u0026proxy=proxy\u0026url=",
-                      "searchable":  1,
-                      "changeable":  1,
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar",
+                      "searchable":  0,
+                      "changeable":  0
                   },
                   {
                       "key":  "lf_js_search",
@@ -3878,9 +3885,10 @@
                       "name":  "♥155(直连)",
                       "type":  1,
                       "api":  "https://155api.com/api.php/provide/vod/?ac=list",
-                      "searchable":  1,
                       "filterable":  1,
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar",
+                      "searchable":  1,
+                      "changeable":  1
                   },
                   {
                       "key":  "jkunzy.com",
@@ -3896,27 +3904,30 @@
                       "name":  "💕乐播(直连)",
                       "type":  1,
                       "api":  "https://lbapi9.com/api.php/provide/vod/?ac=list",
-                      "searchable":  1,
                       "filterable":  1,
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar",
+                      "searchable":  1,
+                      "changeable":  1
                   },
                   {
                       "key":  "senlinzy.com",
                       "name":  "♥森林(直连)",
                       "type":  1,
                       "api":  "https://slapibf.com/api.php/provide/vod/?ac=list",
-                      "searchable":  1,
                       "filterable":  1,
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar",
+                      "searchable":  1,
+                      "changeable":  1
                   },
                   {
                       "key":  "didizy.com",
                       "name":  "♥滴滴(直连)",
                       "type":  1,
                       "api":  "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
-                      "searchable":  1,
                       "filterable":  1,
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar",
+                      "searchable":  1,
+                      "changeable":  1
                   },
                   {
                       "key":  "vnzyz.com",
@@ -3932,36 +3943,40 @@
                       "name":  "💕老色逼(直连)",
                       "type":  1,
                       "api":  "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
-                      "searchable":  1,
                       "filterable":  1,
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar",
+                      "searchable":  1,
+                      "changeable":  1
                   },
                   {
                       "key":  "fhapi9.com",
                       "name":  "★废柴(直连)",
                       "type":  1,
                       "api":  "http://fhapi9.com/api.php/provide/vod/?ac=list",
-                      "searchable":  1,
                       "filterable":  1,
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar",
+                      "searchable":  1,
+                      "changeable":  1
                   },
                   {
                       "key":  "madouse.la",
                       "name":  "★魔法(直连)",
                       "type":  1,
                       "api":  "http://madouse.la/api.php/provide/vod/",
-                      "searchable":  1,
                       "filterable":  1,
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar",
+                      "searchable":  1,
+                      "changeable":  1
                   },
                   {
                       "key":  "jingpinx.com",
                       "name":  "★精品下(直连)",
                       "type":  1,
                       "api":  "http://www.jingpinx.com/api.php/provide/vod/?ac=list",
-                      "searchable":  1,
                       "filterable":  1,
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar",
+                      "searchable":  1,
+                      "changeable":  1
                   },
                   {
                       "key":  "semaozy.com",
@@ -3977,9 +3992,10 @@
                       "name":  "辣椒(FQ)",
                       "type":  1,
                       "api":  "https://apilj.com/api.php/provide/vod/at/json/?ac=list",
-                      "searchable":  1,
                       "filterable":  1,
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar",
+                      "searchable":  1,
+                      "changeable":  1
                   },
                   {
                       "key":  "ffzy.tv",
@@ -3996,26 +4012,28 @@
                       "name":  "玉兔资源",
                       "type":  0,
                       "api":  "https://apiyutu.com/api.php/provide/vod/at/xml/",
-                      "searchable":  1,
                       "style":  {
                                     "type":  "rect",
                                     "ratio":  1.333
                                 },
                       "quickSearch":  1,
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar",
+                      "searchable":  1,
+                      "changeable":  1
                   },
                   {
                       "key":  "lbapiby.com",
                       "name":  "★AIvin(直连)",
                       "type":  0,
                       "api":  "http://lbapiby.com/api.php/provide/vod/at/xml",
-                      "searchable":  1,
                       "recordable":  0,
                       "style":  {
                                     "type":  "rect",
                                     "ratio":  1.33
                                 },
-                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar"
+                      "jar":  "https://raw.githubusercontent.com/lebond2021/maomaoyu/master/jars/pg_upgraded.jar",
+                      "searchable":  0,
+                      "changeable":  0
                   },
                   {
                       "key":  "pgxdy.com",
