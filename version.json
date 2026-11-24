@@ -1,22 +1,22 @@
 {
-    "versionCode":  25,
-    "versionName":  "1.9.2",
+    "versionCode":  26,
+    "versionName":  "1.9.3",
     "force":  false,
     "changelog":  [
-                      "1. 发布渠道整体迁到 GitHub（lebond2021/maomaoyu），App 内的清单与 APK 下载默认走 ghfast.top 加速前缀",
-                      "2. 清单/配置/附件三级回退：ghfast.top -\u003e gh-proxy.com -\u003e 直连，任何一条通就能更新",
-                      "3. 配置与 jar 地址同步改为 GitHub raw，仓库内 sources/*.json 已批量重写",
-                      "4. 内置源 assets 版本 5 -\u003e 6，首启直接使用新地址",
-                      "5. 保留 1.9.1 的全部改动：黑屏浮层、长搜索、不自动退首页、自动升画质、卡顿换源"
+                      "1. 片名关键词变体重试：采集站对空格敏感，「中餐厅 第十季」搜不到时自动再试「中餐厅第十季」「中餐厅第10季」，实测命中非凡（52 期）。",
+                      "2. 线路自动挑选：以前只看第一条线路，非凡把 /share/ 分享页排在第一位就直接判死；现在按「真直链集数」挑线路，自动选中 ffm3u8 的 index.m3u8。",
+                      "3. 季守卫：目标写了季，候选必须是同一季，杜绝「点第十季却播第六季」。",
+                      "4. 精确片名都搜不到时，改用主标题（「中餐厅」）宽搜 25 秒，把结果按季列成选择页，用户按 OK 自己挑，不再自动播近似片名。",
+                      "5. 换源候选池按 key 去重，少搜一遍重复镜像站。"
                   ],
     "apk64":  {
-                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.9.2/maomaoyu-1.9.2-arm64.apk",
-                  "size":  30920911,
-                  "md5":  "2c0a361d17334aa8f2b9fe668b36e1f5"
+                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.9.3/maomaoyu-1.9.3-arm64.apk",
+                  "size":  30922596,
+                  "md5":  "038b1eb572faf68710eca02968531698"
               },
     "apk32":  {
-                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.9.2/maomaoyu-1.9.2-arm32.apk",
-                  "size":  29952394,
-                  "md5":  "05ce8f50aa037ccfdaaa0717a199f86d"
+                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.9.3/maomaoyu-1.9.3-arm32.apk",
+                  "size":  29958991,
+                  "md5":  "a43f327f6f4b66a1e8b764bf62d478c5"
               }
 }
