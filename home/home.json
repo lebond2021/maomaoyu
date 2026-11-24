@@ -1,20 +1,22 @@
 {
-    "version":  2026112415,
-    "updated":  "2026-11-24 15:32",
+    "version":  2026112416,
+    "updated":  "2026-11-24 15:53",
     "sections":  [
                      {
                          "id":  "movie",
                          "name":  "电影",
-                         "site":  "天堂",
-                         "siteName":  "🍀｜天堂｜采集",
+                         "site":  "电影天堂",
+                         "siteName":  "影视 • 电影天堂",
+                         "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                          "subs":  [
                                       {
                                           "id":  "new",
                                           "name":  "最新",
                                           "group":  "sort",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "11",
                                                         "by":  "time"
                                                     },
@@ -98,8 +100,9 @@
                                           "name":  "最热",
                                           "group":  "sort",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "11",
                                                         "by":  "hits"
                                                     },
@@ -183,8 +186,9 @@
                                           "name":  "动作",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "6",
                                                         "by":  "time"
                                                     },
@@ -268,8 +272,9 @@
                                           "name":  "喜剧",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "7",
                                                         "by":  "time"
                                                     },
@@ -353,8 +358,9 @@
                                           "name":  "爱情",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "8",
                                                         "by":  "time"
                                                     },
@@ -438,8 +444,9 @@
                                           "name":  "科幻",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "9",
                                                         "by":  "time"
                                                     },
@@ -523,8 +530,9 @@
                                           "name":  "恐怖",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "10",
                                                         "by":  "time"
                                                     },
@@ -608,8 +616,9 @@
                                           "name":  "剧情",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "11",
                                                         "by":  "time"
                                                     },
@@ -693,8 +702,9 @@
                                           "name":  "战争",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "12",
                                                         "by":  "time"
                                                     },
@@ -778,8 +788,9 @@
                                           "name":  "动画",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "37",
                                                         "by":  "time"
                                                     },
@@ -863,8 +874,9 @@
                                           "name":  "美国·2025",
                                           "group":  "region",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "11",
                                                         "area":  "美国",
                                                         "year":  "2025",
@@ -950,8 +962,9 @@
                                           "name":  "大陆·2026",
                                           "group":  "region",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "11",
                                                         "area":  "大陆",
                                                         "year":  "2026",
@@ -1037,8 +1050,9 @@
                                           "name":  "香港·2024",
                                           "group":  "region",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "11",
                                                         "area":  "香港",
                                                         "year":  "2024",
@@ -1106,16 +1120,18 @@
                      {
                          "id":  "tv",
                          "name":  "电视剧",
-                         "site":  "天堂",
-                         "siteName":  "🍀｜天堂｜采集",
+                         "site":  "电影天堂",
+                         "siteName":  "影视 • 电影天堂",
+                         "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                          "subs":  [
                                       {
                                           "id":  "new",
                                           "name":  "最新",
                                           "group":  "sort",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "16",
                                                         "by":  "time"
                                                     },
@@ -1199,8 +1215,9 @@
                                           "name":  "最热",
                                           "group":  "sort",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "16",
                                                         "by":  "hits"
                                                     },
@@ -1284,12 +1301,19 @@
                                           "name":  "国产剧",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "13",
                                                         "by":  "time"
                                                     },
                                           "items":  [
+                                                        {
+                                                            "id":  "85624",
+                                                            "name":  "你为谁诉讼",
+                                                            "pic":  "https://pic7.iqiyipic.com/image/20261113/37/e6/a_101787050_m_601_m9_579_772.png",
+                                                            "sub":  "更新至第12集"
+                                                        },
                                                         {
                                                             "id":  "85516",
                                                             "name":  "十万狂花入梦来",
@@ -1301,12 +1325,6 @@
                                                             "name":  "百草追凶",
                                                             "pic":  "https://img.dytt-tupian.com/upload/vod/20261123-1/70bd414bce845895096aaa1253b8f7c4.webp",
                                                             "sub":  "更新至第15集"
-                                                        },
-                                                        {
-                                                            "id":  "85624",
-                                                            "name":  "你为谁诉讼",
-                                                            "pic":  "https://img.dytt-tupian.com/upload/vod/20261124-1/be936206775a511de06c59a35f5c22f7.png",
-                                                            "sub":  "更新至第12集"
                                                         },
                                                         {
                                                             "id":  "85578",
@@ -1369,8 +1387,9 @@
                                           "name":  "欧美剧",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "16",
                                                         "by":  "time"
                                                     },
@@ -1454,8 +1473,9 @@
                                           "name":  "韩国剧",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "15",
                                                         "by":  "time"
                                                     },
@@ -1539,8 +1559,9 @@
                                           "name":  "日本剧",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "22",
                                                         "by":  "time"
                                                     },
@@ -1624,8 +1645,9 @@
                                           "name":  "香港剧",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "14",
                                                         "by":  "time"
                                                     },
@@ -1709,8 +1731,9 @@
                                           "name":  "台湾剧",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "21",
                                                         "by":  "time"
                                                     },
@@ -1794,8 +1817,9 @@
                                           "name":  "泰国剧",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "24",
                                                         "by":  "time"
                                                     },
@@ -1879,8 +1903,9 @@
                                           "name":  "海外剧",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "23",
                                                         "by":  "time"
                                                     },
@@ -1964,8 +1989,9 @@
                                           "name":  "美国·2025",
                                           "group":  "region",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "16",
                                                         "area":  "美国",
                                                         "year":  "2025",
@@ -2051,16 +2077,18 @@
                      {
                          "id":  "show",
                          "name":  "综艺",
-                         "site":  "天堂",
-                         "siteName":  "🍀｜天堂｜采集",
+                         "site":  "电影天堂",
+                         "siteName":  "影视 • 电影天堂",
+                         "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                          "subs":  [
                                       {
                                           "id":  "new",
                                           "name":  "最新",
                                           "group":  "sort",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "25",
                                                         "by":  "time"
                                                     },
@@ -2144,8 +2172,9 @@
                                           "name":  "最热",
                                           "group":  "sort",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "25",
                                                         "by":  "hits"
                                                     },
@@ -2229,8 +2258,9 @@
                                           "name":  "大陆综艺",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "25",
                                                         "by":  "time"
                                                     },
@@ -2314,8 +2344,9 @@
                                           "name":  "日韩综艺",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "27",
                                                         "by":  "time"
                                                     },
@@ -2399,8 +2430,9 @@
                                           "name":  "港台综艺",
                                           "group":  "genre",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "26",
                                                         "by":  "time"
                                                     },
@@ -2484,8 +2516,9 @@
                                           "name":  "大陆·2026",
                                           "group":  "region",
                                           "query":  {
-                                                        "site":  "天堂",
-                                                        "siteName":  "🍀｜天堂｜采集",
+                                                        "site":  "电影天堂",
+                                                        "siteName":  "影视 • 电影天堂",
+                                                        "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
                                                         "t":  "25",
                                                         "area":  "大陆",
                                                         "year":  "2026",
