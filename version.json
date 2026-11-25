@@ -1,33 +1,23 @@
 {
-    "versionCode":  35,
-    "versionName":  "1.12.0",
+    "versionCode":  36,
+    "versionName":  "1.12.1",
     "force":  false,
     "changelog":  [
-                      "毛毛雨 1.12.0",
-                      "【分类页只显示「有评分 + 有真人评价」的内容】",
-                      "- 数据源改为豆瓣：排行榜（16 个类型）+ 剧集/综艺/纪录片标签页 + 在映/热播集合",
-                      "- 入库门槛：必须有评分且 ≥6.0；评价人数 ≥1000（综艺 ≥300）；无评分、无人评分的条目一律不进",
-                      "- 内容清洗：短剧、合集、解说、预告、花絮、单片、短片全部剔除",
-                      "- 当前池子 5873 部：电影 2731 / 剧集 2905 / 综艺 237，全部带海报、评分、评价人数",
-                      "【页面变化】",
-                      "- 卡片角标显示「评分 · 评价人数」，例如 9.4·121万",
-                      "- 四行叠加筛选（类型 / 地区 / 年份 / 排序）全部在本地完成，首屏秒开",
-                      "- 去掉「只看能播的 / 全部」开关（池子里每条都经过评分与人数筛选，语义重复）",
-                      "- 综合排序改为「评价人数优先」，不再被几十年前的老片霸屏",
-                      "- 点开片子按片名全站找源，找不到停在详情页给提示，不再空等",
-                      "【服务端】",
-                      "- 新增 GitHub 侧 douban-pool.ps1：豆瓣请求默认走本地 mihomo 代理，避免本机 IP 被软封",
-                      "- 每周自动流程改为 sync → health → proxy → douban pool → 推送",
-                      "安装包：毛毛雨-64位.apk（推荐）/ 毛毛雨-32位.apk"
+                      "### 1.12.1 — 遥控器 / 键盘「往上滚不动」修好了",
+                      "- **分类页（电影/电视剧/综艺）**：每按一次 ↑/↓ 移动一整行，目标行不在屏幕上会先滚过去再聚焦，焦点那一行永远是完整的海报。",
+                      "- **首页海报网格**：同样的整行移动，往下可以一直翻到列表末尾并自动续页，往上可以一路退回第一行，第一行再按 ↑ 回到分类条。",
+                      "- 根因：`com.owen:tv-recyclerview:3.0.0` 的 `focusSearch` 只在「相邻行已经布局出来」时才给候选，目标行在视口外时直接返回 null，所以往下（下一行往往已预加载）能走、往上（上一行已被回收）就卡住。",
+                      "- 现在按行自己接管上下键，并用库自带的 `setSelection(pos)`（post 后 `findViewByPosition` + `requestFocus`）定位，不再依赖焦点碰撞。",
+                      "安装包：64 位 `毛毛雨-64位.apk` / 32 位 `毛毛雨-32位.apk`。"
                   ],
     "apk64":  {
-                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.12.0/maomaoyu-1.12.0-arm64.apk",
-                  "size":  31220037,
-                  "md5":  "1497b62d1563ca2fa7c49da5c3db0ad9"
+                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.12.1/maomaoyu-1.12.1-arm64.apk",
+                  "size":  31220697,
+                  "md5":  "6ca5e193e9dfc56aae2261cefd9678c8"
               },
     "apk32":  {
-                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.12.0/maomaoyu-1.12.0-arm32.apk",
-                  "size":  30257538,
-                  "md5":  "737bcc985c9d452739e7b59769d4354c"
+                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.12.1/maomaoyu-1.12.1-arm32.apk",
+                  "size":  30258552,
+                  "md5":  "7c4801a4cde8c6dda001cf2c46d537e6"
               }
 }
