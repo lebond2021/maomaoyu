@@ -22,12 +22,12 @@
                   ],
     "apk64":  {
                   "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.12.0/maomaoyu-1.12.0-arm64.apk",
-                  "size":  31220024,
-                  "md5":  "2956927624493c4efdeec3d2d9ade828"
+                  "size":  31220037,
+                  "md5":  "1497b62d1563ca2fa7c49da5c3db0ad9"
               },
     "apk32":  {
                   "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.12.0/maomaoyu-1.12.0-arm32.apk",
-                  "size":  30257539,
-                  "md5":  "34796229066eafabc744608a4f750a53"
+                  "size":  30257538,
+                  "md5":  "737bcc985c9d452739e7b59769d4354c"
               }
 }
