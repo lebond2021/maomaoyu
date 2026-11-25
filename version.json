@@ -1,26 +1,24 @@
 {
-    "versionCode":  32,
-    "versionName":  "1.11.2",
+    "versionCode":  33,
+    "versionName":  "1.11.3",
     "force":  false,
     "changelog":  [
-                      "1.11.2 白名单加「热度」信号：用采集站的播放量排序",
-                      "· 白名单每条新增 hits（采集站 vod_hits）、scoreNum（vod_score_num）、douban（vod_douban_id）：964 条里 963 条带播放量",
-                      "· 排序「热度」上线：按站内真实播放量排，不再依赖豆瓣评价人数",
-                      "· 排序「综合」改为复合分：评分×10（0-100）+ 播放量对数加权（0-10），高分又有人看的排最前",
-                      "· 评分缺失时回落采集站 vod_score，评分条目 65 条、评价人数 337 条",
-                      "· 同名条目跨站合并时补海报，减少绿底占位",
-                      "· 修 bug：白名单卡片点开时传给详情页的 id 是本地占位符（p:xxx），现在改成按片名搜（msearch:###片名###封面），命中白名单源才用真实 vod_id",
-                      "· 每周自动流程补全：sync → health-check → build-playable2 → enrich-playable → 复制 assets → push",
-                      "数据：playable.json version 2026112500，964 条（电影 530 / 电视剧 286 / 综艺 148）"
+                      "1.11.3 修：分类页往下滑不会自动加载，永远停在 20 条",
+                      "· 根因：续页只挂在「焦点移动」上（TvRecyclerView 的 onItemSelected），鼠标拖动/滚轮滚动不移动焦点，所以永远停在第一页 20 条",
+                      "· 修复：给网格加 RecyclerView.OnScrollListener，按「最后一个可见项」判断，滑到底部前 10 个就自动加载下一页",
+                      "· 追加一页改用 notifyItemRangeInserted，不再整表刷新——滚动位置和焦点不会被重置回顶部",
+                      "· 遥控器路径保持不变：焦点走到倒数 10 个 / 最后一行再按下，同样会续页",
+                      "· 实测电影 530 部、电视剧 286 部都能一路滑到底，末页提示「没有更多了」",
+                      "数据仍是 playable.json version 2026112500（964 条）"
                   ],
     "apk64":  {
-                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.11.2/maomaoyu-1.11.2-arm64.apk",
-                  "size":  31043583,
-                  "md5":  "bc4ebca3645889a05617cd606b9ce0f5"
+                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.11.3/maomaoyu-1.11.3-arm64.apk",
+                  "size":  31043599,
+                  "md5":  "6cbafb3643785a2750c9ae4a672ef844"
               },
     "apk32":  {
-                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.11.2/maomaoyu-1.11.2-arm32.apk",
-                  "size":  30080858,
-                  "md5":  "92c00e978d18310c20a581a1db3fb2f3"
+                  "file":  "https://github.com/lebond2021/maomaoyu/releases/download/v1.11.3/maomaoyu-1.11.3-arm32.apk",
+                  "size":  30081482,
+                  "md5":  "804886260b9d709d2f92319c5fa61e64"
               }
 }
